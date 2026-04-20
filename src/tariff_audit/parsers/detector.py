@@ -11,26 +11,25 @@ Add new parsers to :data:`REGISTERED_PARSERS` to enable auto-detection.
 from __future__ import annotations
 
 from tariff_audit.parsers.base import BillParser
+from tariff_audit.parsers.bill_layouts import BillLayoutGuide, detect_layout
 from tariff_audit.parsers.fpl import FPLBillParser
 
-#: Ordered list of registered parsers. Detection tries each in order and
-#: returns the first match. Order: largest utility first (FPL, Duke, TECO,
-#: FPU) to minimize false-positive risk on shared keywords.
+#: Ordered list of registered FULL parsers (can produce a ``ParsedBill``).
+#: Detection tries each in order and returns the first match.
 REGISTERED_PARSERS: tuple[BillParser, ...] = (
     FPLBillParser(),
-    # Duke, TECO, FPU parsers pending Phase 2 completion.
+    # Duke, TECO, FPU parsers pending — identify via detect_utility_name()
+    # instead (which falls back to layout markers) until full parsers are added.
 )
 
 
 def detect_utility(text: str) -> BillParser | None:
-    """Return the first parser that claims the text, or ``None``.
+    """Return the first FULL parser that claims the text, or ``None``.
 
-    Use the returned parser directly to get a :class:`ParsedBill`::
-
-        parser = detect_utility(bill_text)
-        if parser is None:
-            raise ValueError("Could not detect utility from bill text")
-        parsed = parser.parse(bill_text)
+    This only returns a parser when we can fully extract a ``ParsedBill``.
+    When only identification is needed (e.g. "which firm is billing this
+    customer?"), use :func:`detect_utility_name` instead — it falls back to
+    the layout guide's markers and covers all four FL IOUs.
     """
     for parser in REGISTERED_PARSERS:
         if parser.can_parse(text):
@@ -39,6 +38,24 @@ def detect_utility(text: str) -> BillParser | None:
 
 
 def detect_utility_name(text: str) -> str | None:
-    """Convenience wrapper returning just the utility identifier."""
+    """Return the utility identifier ("FPL", "DUKE", "TECO", "FPU") or None.
+
+    Tries full parsers first (when a bill is fully parseable) and falls
+    back to the layout detection markers so every FL IOU is identifiable
+    even if the full PDF parser isn't yet implemented.
+    """
     parser = detect_utility(text)
-    return parser.name.upper() if parser else None
+    if parser is not None:
+        return parser.name.upper()
+    guide = detect_layout(text)
+    return guide.utility if guide else None
+
+
+def detect_utility_layout(text: str) -> BillLayoutGuide | None:
+    """Return the bill layout guide for a detected utility.
+
+    Useful when the UI needs to render a manual-entry form tailored to the
+    utility's specific bill layout — even if full automatic parsing isn't
+    available.
+    """
+    return detect_layout(text)
