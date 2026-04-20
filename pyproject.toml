@@ -1,0 +1,88 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tariff-audit-fl"
+version = "0.1.0"
+description = "Florida Tariff Forensics Engine — local-first forensic audits of Florida electric utility bills against PSC-approved tariffs."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+authors = [
+    { name = "Finch Business Services, LLC" },
+]
+keywords = ["florida", "utility", "electric", "tariff", "audit", "psc", "fpl", "duke", "teco"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Office/Business :: Financial",
+]
+
+dependencies = [
+    "pydantic>=2.6",
+    "typer>=0.12",
+    "python-dateutil>=2.9",
+]
+
+[project.optional-dependencies]
+parsing = [
+    "pdfplumber>=0.11",
+    "pytesseract>=0.3.10",
+    "Pillow>=10.0",
+]
+grid = [
+    "httpx>=0.27",
+]
+data = [
+    "duckdb>=1.0",
+]
+desktop = [
+    "textual>=0.60",
+    "streamlit>=1.35",
+]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "ruff>=0.5",
+    "mypy>=1.10",
+]
+
+[project.scripts]
+tariff-audit = "tariff_audit.__main__:main"
+
+[project.urls]
+Homepage = "https://github.com/chasehfinch-cpu/PowerCheck"
+Repository = "https://github.com/chasehfinch-cpu/PowerCheck"
+Issues = "https://github.com/chasehfinch-cpu/PowerCheck/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tariff_audit"]
+
+[tool.hatch.build.targets.wheel.shared-data]
+"tariff_data" = "tariff_audit/tariff_data"
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-ra --strict-markers"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+warn_return_any = true
+warn_unused_configs = true
