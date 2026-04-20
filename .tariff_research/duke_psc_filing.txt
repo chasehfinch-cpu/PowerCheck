@@ -1,0 +1,1347 @@
+=== page 1 ===
+FILED 8/1/2025
+DOCUMENT NO. 07095-2025
+FPSO - COMMISSION CLERK
+DUKE
+ENERGY®
+FLORIDA
+Stephanie A. Cuello
+SENIOR COUNSEL
+August 1, 2025
+VIA ELECTRONIC FILING
+Adam J. Teitzman, Commission Clerk
+Florida Public Service Commission
+2540 Shumard Oak Boulevard
+Tallahassee, Florida 32399-0850
+Re: Energy Conservation Cost Recovery Clause; Docket No. 20250002-EG
+Dear Mr. Teitzman:
+On behalf of Duke Energy Florida, LLC (“DEF”), please find enclosed for electronic filing
+in the above-referenced docket:
+• DEF’s ECCR Actual/Estimated True-Up and Projection Petition;
+• Direct Testimony of Karla Rodriguez; and
+• Exhibit KR-1P to Direct Testimony of Karla Rodriguez.
+Thank you for your assistance in this matter and if you have any questions, please feel
+free to contact me at (850) 521-1425.
+Sincerely,
+/s/ Stephanie A. Cuello
+Stephanie A. Cuello
+SAC/clg
+Enclosures
+106 East College Avenue, Suite 800 • Tallahassee, Florida 32301
+Phone: 850.521.1425 • Email: stephanie.cuello@duke-energy.com
+=== page 2 ===
+BEFORE THE FLORIDA PUBLIC SERVICE COMMISSION
+Docket No. 20250002-EG
+In re: Energy Conservation Cost Recovery
+_ Filed: August 1,2025
+DUKE ENERGY FLORIDA, LLC’S PETITION FOR APPROVAL OF
+CONSERVATION COST RECOVERY TRUE-UP CALCULATIONS, PROJECTED
+PROGRAM EXPENDITURES AND PROJECTED COST RECOVERY FACTORS
+FOR THE PERIOD JANUARY 2026 THROUGH DECEMBER 2026
+Duke Energy Florida, LLC (“DEF” or “the Company”), hereby petitions the Commission
+for approval of the Company’s conservation cost recovery true-up and cost recovery factors
+proposed for the period January 2026 through December 2026. In support thereof, the Company
+states:
+1. DEF projects total conservation program costs of $145,797,740 for the period
+January 2026 through December 2026.
+2. The net true-up is an over-recovery of $3,559,155, which includes the final
+conservation over-recovery of $267,930, for the period January 2024 through December 2024, as
+shown on DEF’s schedule CT-1 filed May 1, 2025, and the actual/estimated true-up over-recovery
+for January 2025 through December 2025 of $3,291,225.
+3. The total recoverable conservation costs including prior period over-recoveries to
+be reimbursed during the January 2026 through December 2026 billing period are $142,238,585.
+4. Based upon the required true-up and projected expenditures, DEF has calculated
+the required conservation cost recovery factors for the period January 2026 through December
+2026 as follows:
+=== page 3 ===
+2026 ECCR Billing Factors
+Secondary Primary Transmission
+Retail Rate Schedule Voltage Voltage Voltage
+Residential (Cents/kWh) .386 N/A N/A
+General-Service-Non-Demand (Cents/kWh) .342 .339 .335
+General Service 100% Load Factor (Cents/kWh) .273 N/A N/A
+General Service Demand ($/kW) 1.08 1.07 1.06
+Curtailable ($/kW) 1.06 1.05 1.04
+Interruptible ($/kW) .99 .98 .97
+Standby Monthly ($/kW) .106 .105 .104
+Standby Daily ($/kW) .050 .050 .049
+Lighting (Cents/kWh) .152 N/A N/A
+WHEREFORE, DEF respectfully requests the Commission’s approval of the Company’s
+prior period conservation cost-recovery true-up calculations, projected program expenditures and
+projected conservation cost-recovery charges to be collected during the January 2026 through
+December 2026 billing period.
+Respectfully submitted this 1st day of August, 2025.
+/s/ Stephanie A. Cuello_
+DIANNE M. TRIPLETT
+Deputy General Counsel
+299 First Avenue North
+St. Petersburg, FL 33701
+T: (727) 820-4692
+E: Dianne.Triplett@Duke-Energy.com
+MATTHEW R. BERNIER
+Associate General Counsel
+106 E. College Avenue, Suite 800
+Tallahassee, FL 32301
+T: (850) 521-1428
+E: Matt.Bernier@Duke-Energy.com
+STEPHANIE A. CUELLO
+Senior Counsel
+2
+=== page 4 ===
+106 E. College Avenue, Suite 800
+Tallahassee, Florida 32301
+T: (850) 521-1425
+E: Stephanie.Cuello@Duke-Energy.com
+FLRegulatoryLegal@Duke-Energy.com
+3
+=== page 5 ===
+CERTIFICATE OF SERVICE
+Docket No. 20250002-EG
+I HEREBY CERTIFY that a true and correct copy of the foregoing has been furnished via
+electronic mail to the following this 1st day of August, 2025.
+_ /s/ Stephanie A. Cuello_
+Attorney
+Jennifer Augspurger / Jacob Imig W. Trierweiler / M. Wessling / P. Christensen /O. Ponce / A.
+Office of General Counsel Watrous / C. Rehwinkel
+Florida Public Service Commission Office of Public Counsel
+2540 Shumard Oak Blvd. 111 West Madison Street, Room 812
+Tallahassee, FL 32399-0850 Tallahassee, FL 32399-1400
+JAugspur@psc.state.fl.us trierweiler.walt@,leg.state.fl.us
+jimig@psc.state.fl.us wessling.mary@leg.state.fl.us
+christensen.patty@leg.state.fl.us
+J. Wahlen / M. Means / V. Ponder ponce.octavio@leg.state.fl.us
+Tampa Electric Company watrous.austin@leg.state.fl.us
+P.O. Box 391 rehwinkel.charles@leg.state.fl.us
+Tallahassee, FL 32302
+jwahlen@auslev.com Kenneth A. Hoffman
+mmeans@ausley.com Florida Power & Light Company
+vponder@auslev.com 134 W. Jefferson Street
+Tallahassee, FL 32301-1713
+Jon C. Moyle, Jr. ken.hoffman@fpl.com
+FIPUG
+118 North Gadsden Street Beth Keating
+Tallahassee, FL 32301 Gunster, Yoakley & Stewart, P.A.
+jmovle@moylelaw.com Florida Public Utilities Company
+mqualls@moylelaw.com 215 South Monroe Street, Suite 601
+Tallahassee, FL 32301
+Maria Jose Moncada / William P. Cox/ Joel T. Baker bkeating@gunster.com
+Florida Power & Light Company
+700 Universe Boulevard Brian Goff
+Juno Beach, FL 33408-0420 Chesapeake Utilities Corporation
+maria.moncada@fpl.com Florida Public Utilities Company
+will.p.cox@fpl.com 208 Wildlight Avenue
+joel.baker@fpl.com Yulee, FL 32097
+bgoff@chpk.com
+James W. Brew / Laura Wynn Baker / Sarah B. Newman
+Stone Mattheis Xenopoulos & Brew, P.C. Michelle D. Napier
+PCS Phosphate -White Springs Florida Public Utilities Company
+1025 Thomas Jefferson Street, NW 1635 Meathe Drive
+Eighth Floor, West Tower West Palm Beach, FL 33411
+Washington, DC 20007 mnapier@fpuc.com
+jbrew@smxblaw.com
+lwb@smxblaw.com Paula K. Brown
+sbn@smxblaw.com Tampa Electric Company
+P.O. Box 111
+Peter J. Mattheis / Michael K. Lavanga / Joseph R. Briscar Tampa, FL 33601
+Stone Mattheis Xenopoulos & Brew, PC regdept@tecoenergy.com
+NUCOR
+1025 Thomas Jefferson Street, NW
+Eighth Floor, West Tower
+Washington, DC 20007
+pjm@smxblaw.com
+mkl@smxblaw.com
+jrb@smxblaw.com
+4
+=== page 6 ===
+1 BEFORE THE FLORIDA PUBLIC SERVICE COMMISSION
+2 DIRECT TESTIMONY OF
+3 KARLA RODRIGUEZ
+4 ON BEHALF OF
+5 DUKE ENERGY FLORIDA, LLC
+6 DOCKET NO. 20250002-EG
+7 August 1,2025
+8
+9 Q. State your name and business address.
+10 A. My name is Karla Rodriguez. My business address is 299 First Avenue North, St.
+11 Petersburg, FL 33701.
+12
+13 Q. By whom are you employed and in what capacity?
+14 A. I am employed by Duke Energy Business Services, LLC (“DEBS”), as Lead Strategy &
+15 Collaboration Manager in the Portfolio Analysis and Regulatory Strategy Department.
+16 DEBS is a service-company affiliate of Duke Energy Florida, LLC (“Duke Energy
+17 Florida,” “DEF,” or “the Company”).
+18
+19 Q. What are your current duties and responsibilities at Duke Energy?
+20 A. My responsibilities include the regulatory planning, support and compliance of the
+21 Company’s energy-efficiency and demand-side management (DSM) programs. This
+22 includes support for development, implementation and training, budgeting, and
+23 accounting functions related to these programs.
+=== page 7 ===
+1 Q. What is the purpose of your testimony?
+2 A. The purpose of my testimony is to describe the components and costs of the Company's
+3 DSM programs. I will detail the projected costs for each program, explain how these
+4 costs are presented in my attached exhibit, and show the resulting projected Energy
+5 Conservation Cost Recovery (“ECCR”) factors for 2026 customer billings.
+6
+7 Q. For what programs does DEF seek recovery?
+8 A. Pursuant to Rule 25-17.015, F.A.C., DEF seeks recovery through the ECCR clause of
+9 costs related to the following conservation programs approved by the Commission as part
+10 of the Company's DSM Plan on March 24, 2025 (see Order No. PSC-2025-0088-PAA-
+11 EG), as well as for common, administrative expenses not linked to a specific program:
+12 • Home Energy Check
+13 • Residential Incentive Program
+14 • Multi Family New Builder Construction
+15 • Neighborhood Energy Saver
+16 • Low-Income Weatherization Assistance Program
+17 • Load Management (Residential and Commercial)
+18 • Business Energy Check
+19 • Smart Saver Business (a/k/a Better Business)
+20 • Smart Saver Custom Incentive Program
+21 • Standby Generation
+22 • Interruptible Service
+23 • Curtailable Service
+-2-
+=== page 8 ===
+1 • Technology Development
+2 • Qualifying Facility
+3
+4 Q. Do you have any exhibits to your testimony?
+5 A. Yes. Exhibit KR-1P supports DEF’s energy conservation calculations for the 2025
+6 actual/estimated period and the 2026 projection period. There are six (6) schedules
+7 included in this exhibit.
+8
+9 Q. Will you please explain your exhibit?
+10 A. Yes. Exhibit KR-1P presents Schedules C-l through C-6. Schedules C-l to C-4 provide
+11 projected program costs for calendar year 2026 along with an updated projection of
+12 program costs for 2025. The 2025 updated projection of costs includes the actual costs
+13 incurred for the period from January 2025 through June 2025 and forecasted costs for July
+14 through December 2025. Schedule C-5 provides a summary report for each program that
+15 includes a program description, estimated annual program expenditures for 2026, and a
+16 summary of program accomplishments through the period ending June 2025. Schedule C-
+17 6 is the capital structure and cost rates used to calculate the return for each applicable
+18 conservation program.
+19
+20 Q. Would you please discuss Schedule C-l?
+21 A. Schedule C-1 provides the calculation of the cost recovery factors for 2026 by rate class.
+22
+23 Q. What does Schedule C-2 show?
+-3 -
+=== page 9 ===
+1 A. Schedule C-2 provides annual and monthly conservation program cost estimates for the
+2 2026 projection period for each conservation program as well as for common
+3 administration expenses. Additionally, Schedule C-2 presents program costs by specific
+4 category (e.g., payroll, materials, incentives, etc.) and includes a schedule of estimated
+5 capital investments, depreciation and return for the projection period.
+6
+7 Q. Would you please discuss Schedule C-3?
+8 A. Schedule C-3 contains a detailed breakdown of conservation program costs by specific
+9 category and by month for the period of January through June 2025 (actual) and July
+10 through December 2025 (estimated). In addition, Schedule C-3 presents a schedule of
+11 capital investment, depreciation and return, an energy conservation adjustment
+12 calculation of true-up, and a calculation of interest provision for the 2025
+13 actual/estimated period.
+14
+15 Q. What is the purpose of Schedule C-4?
+16 A. Schedule C-4 provides the actual (January - June 2025) and estimated (July - December
+17 2025) ECCR revenues.
+18
+19 Q. Would you please discuss Schedule C-5?
+20 A. Schedule C-5 presents a brief description of each program, as well as a summary of
+21 progress and projected expenditures for each program for which DEF seeks cost recovery
+22 through the ECCR clause.
+23
+-4-
+=== page 10 ===
+1 Q. What is the purpose of Schedule C-6?
+2 A. Schedule C-6 provides the capital structure and cost rates used to calculate the Return on
+3 Average Investment on Schedules C-2 and C-3.
+4
+5 Q. Would you please summarize the results presented in your Exhibit?
+6 A. Yes. Schedule C-2, Page 1 of 4, Line 23, shows total 2026 projected program costs of
+7 $145,797,740 plus aprior period over-recovery of $3,559,155 resulting in estimated net
+8 revenue requirements in 2026 of $142,238,585. The following table includes DEF’s
+9 proposed ECCR billing factors, by retail rate class and voltage level for calendar year
+10 2026, as contained in Schedule C-l, Page 2 of 2.
+11
+12 2026 ECCR Billing Factors
+13 Secondary Primary Transmission
+14 Retail Rate Schedule Voltage Voltage Voltage
+15 Residential (Cents/kWh) .386 N/A N/A
+16 General-Service-Non-Demand (Cents/kWh) .342 .339 .335
+17 General Service 100% Load Factor (Cents/kWh) .273 N/A N/A
+18 General Service Demand ($/kW) 1.08 1.07 1.06
+19 Curtailable ($/kW) 1.06 1.05 1.04
+20 Interruptible ($/kW) .99 .98 .97
+21 Standby Monthly ($/kW) .106 .105 .104
+22 Standby Daily ($/kW) .050 .050 .049
+23 Lighting (Cents/kWh) .152 N/A N/A
+24
+25 Q. Does this conclude your testimony?
+26 A. Yes.
+-5 -
+=== page 11 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Calculation of Energy & Demand Allocation % by Rate Class Exhibit No.(KR-IP)
+January 2026 - December 2026 Schedule C-1
+Page 1 of 2
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Average 12CP Annual Annual 12 CP & 25% AD
+Load Factor Sales Avg12CP Delivery Sales at Source Avg12CP Average Average 12 CP Demand
+at Meter at Meter at Meter Efficiency (Generation) at Source Demand Demand Allocator Allocator Allocator
+Rate Class (%) (mWh) (MW) Factor (mWh) (MW) (MWh) (%) (%) (%)
+Residential
+RS-1, RST-1
+Secondary 0.534 21,720,231 4,641.1 0.9444971 22,996,610 4,913.8 2,625.18 53.076% 62.966% 60.494%
+General Service Non-Demand
+GS-1, GST-1, GSLM-1, GSLM-2
+Secondary 0.651 2,073,815 363.5 0.9444971 2,195,682 384.8 250.6 5.068% 4.931% 4.965%
+Primary 0.651 31,249 5.5 0.9748132 32,056 5.6 3.7 0.074% 0.072% 0.072%
+Sec Del/Primary Mtr 0.651 0 0.0 0.9748132 0 0.0 0.0 0.000% 0.000% 0.000%
+Transmission 0.651 4,156 0.7 0.9848132 4,220 0.7 0.5 0.010% 0.009% 0.010%
+2,109,220 369.7 2,231,958 391.2 254.8 5.151% 5.013% 5.047%
+General Service
+GS-2 Secondary 1.000 213,410 24.36 0.9444971 225,951 25.8 25.8 0.521% 0.331% 0.378%
+General Service Demand
+GSD-1, GSDT-1, GSLM-1, GSLM-2
+Secondary 0.777 11,432,264 1,679.7 0.9444971 12,104,076 1,778.4 1,381.7 27.936% 22.789% 24.076%
+Primary 0.777 1,694,863 249.0 0.9748132 1,738,654 255.5 198.5 4.013% 3.273% 3.458%
+Sec Del/Primary Mtr 0.777 23,753 3.5 0.9748132 24,367 3.6 2.8 0.056% 0.046% 0.048%
+Primary Del/Secondary Mtr 0.777 5,891 0.9 0.9444971 6,237 0.9 0.7 0.014% 0.012% 0.012%
+Transm Del/Primary Mtr 0.777 0 0.0 0.9748132 0 0.0 0.0 0.000% 0.000% 0.000%
+Transmission 0.777 427,487 62.8 0.9848132 434,079 63.8 49.6 1.002% 0.817% 0.863%
+SS-1 Primary 0.985 36,698 4.3 0.9748132 37,646 4.4 4.3 0.087% 0.056% 0.064%
+Transm Del/Transm Mtr 0.985 5,393 0.6 0.9848132 5,476 0.6 0.6 0.013% 0.008% 0.009%
+Transm Del/Primary Mtr 0.985 2,249 0.3 0.9748132 2,307 0.3 0.3 0.005% 0.003% 0.004%
+13,628,597 2,001.0 14,352,841 2,107.4 1,638.5 33.126% 27.004% 28.535%
+Curtailable
+CS-2, CST-2, CS-3, CST-3
+Secondary 1.002 0 0.0 0.9444971 0 0.0 0.0 0.000% 0.000% 0.000%
+Primary 1.002 40,822 4.7 0.9748132 41,876 4.8 4.8 0.097% 0.061% 0.070%
+SS-3 Primary 1.207 42 0.0 0.9748132 43 0.0 0.0 0.000% 0.000% 0.000%
+40,864 4.7 41,920 4.8 4.8 0.097% 0.061% 0.070%
+Interruptible
+IS-2, IST-2
+Secondary 1.012 409,214 46.1 0.9444971 433,261 48.9 49.5 1.000% 0.626% 0.720%
+Sec Del/Primary Mtr 1.012 0 0.0 0.9748132 0 0.0 0.0 0.000% 0.000% 0.000%
+Primary Del/Primary Mtr 1.012 1,090,549 123.0 0.9748132 1,118,726 126.2 127.7 2.582% 1.617% 1.858%
+Primary Del/Transm Mtr 1.012 0 0.0 0.9848132 0 0.0 0.0 0.000% 0.000% 0.000%
+Transm Del/Transm Mtr 1.012 1,320,856 149.0 0.9848132 1,341,225 151.3 153.1 3.096% 1.938% 2.228%
+Transm Del/Primary Mtr 1.012 159,751 18.0 0.9748132 163,879 18.5 18.7 0.378% 0.237% 0.272%
+SS-2 Primary 0.838 9,881 1.3 0.9748132 10,136 1.4 1.2 0.023% 0.018% 0.019%
+Transm Del/Transm Mtr 0.838 3,075 0.4 0.9848132 3,123 0.4 0.4 0.007% 0.005% 0.006%
+Transm Del/Primary Mtr 0.838 85,204 11.6 0.9748132 87,406 11.9 10.0 0.202% 0.153% 0.165%
+3,078,530 349.5 3,157,755 358.5 360.5 7.288% 4.594% 5.267%
+Lighting
+LS-1 (Secondary) 14.969 302,787 2.3 0.9444971 320,580 2.4 36.6 0.740% 0.031% 0.208%
+41,093,640 7,393 43,327,616 7,804 4,946 100.000% 100.000% 100.000%
+Notes:
+(1) Average 12CP load factor based on load research study filed April 28, 2023 (FPSC Rule 25-6.0437 (7)) (6) Column 3 I Column 4
+(2) Projected mWh sales for the period Jan-Dec 2026 (7) Column 5 I 8,760 hours
+(3) Calculated: Column 2 I (8,760 hours x Column 1) (8) Column 51 Total Column 5
+(4) Based on system average line loss analysis for 2024 (9) Column 61 Total Column 6
+(5) Column 2 / Column 4 (10) Column 8x1/4 + Column 9 x 3/4
+=== page 12 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Calculation of Energy Conservation Cost Recovery Rate Factors by Rate Class Exhibit No.(KR-1 P)
+January 2026 - December 2026 Schedule C-1
+Page 2 of 2
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Annual 12 CP & 25% AD Energy- Production Total Energy Projected Projected Energy Energy
+Average Demand Related Demand Conservation Effective Sales Billing KW Effective KW Conservation Conservation
+Demand Allocator Allocator Costs Costs Costs at Meter Level Load Factor at Meter Level Cost Recovery Cost Recovery
+Rate Class (%) (%) ($) ($) ($) (mWh) (%) (kW) ($/kW-month) (cents/kWh)
+Residential
+RS-1, RST-1
+Secondary 53.076% 60.494% $16,313,542 $ 67,452,012 $ 83,765,554 21,720,231 0.386
+General Service Non-Demand
+GS-1, GST-1, GSLM-1, GLMS-2
+Secondary 2,073,815 0.342
+Primary 30,937 0.339
+Transmission 4,073 0.335
+TOTALGS 5.151% 5.047% $1,583,327 $ 5,627,841 $ 7,211,167 2,108,824
+General Service
+GS-2 Secondary 0.521% 0.378% $160,287 $ 421,774 $ 582,061 213,410 0.273
+General Service Demand
+GSD-1, GSDT-1, GSLM-1,GSLM-2, SS-1
+Secondary 11,438,155 1.08
+Primary 1,739,987 1.07
+Transmission 424,222 1.06
+TOTAL GSD 33.126% 28.535% $10,181,748 $ 31,817,049 $ 41,998,796 13,602,364 47.81% 38,976,832
+Curtailable
+CS-2, CST-2, CS-3, CST-3, SS-3
+Secondary - 1.06
+Primary 40,455 1.05
+Transmission - 1.04
+TOTAL CS 0.097% 0.070% $29,737 $ 78,161 $ 107,898 40,455 54.65% 101,401
+Interruptible
+IS-2, IST-2, SS-2
+Secondary 409,214 0.99
+Primary 1,331,931 0.98
+Transmission 1,297,452 0.97
+TOTALIS 7.288% 5.267% $2,240,077 $ 5,873,165 $ 8,113,241 3,038,598 50.87% 8,181,933
+Lighting
+LS-1 Secondary 0.740% 0.208% $227,416 $ 232,450 $ 459,866 302,787 0.152
+_ 100,000%_ 100,000% $ 30,736,134 $ 111,502,451 $ 142,238,585_ 41,026,671 0.347
+Notes: Calculation of Standby Service kW Charges
+(1) From Schedule C-1, page 1, Column 8 (6) kWh sales at effective secondary voltage ECCR Cost Effective kW $/kW
+(2) From Schedule C-1, page 1, Column 10 (7) Class Billing kW Load Factor Total GSD, CS, IS $50,219,936 47,260,166 1.06
+(3) Column 1 x Total Energy Dollars, C-2 page 1, line 21 (8) Column 6 x 1000 I 8,760 I Column 7x12
+(4) Column 2 x Total Demand Dollars, C-2 page 1, line 22 (9) Column 51 Column 8 (x voltage factor if applicable) SS-1.2.3 - $/kW-mo Secondary Primary Transmission
+(5) Column 3 + Column 4 (10) Column 5 / Column 6/10 Monthly-$1.06/kW * 10% 0.106 0.105 0.104
+Daily - $1.06/kW / 21 0.050 0.050 0.049
+=== page 13 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Estimated Conservation Program Costs Exhibit No.(KR-IP)
+January 2026 - December 2026 Schedule C-2
+Page 1 of 4
+Line Program 12 Month
+No. Demand (D) or Energy (E) Total
+1 Home Energy Check (E) $5,192,537
+2 Residential Incentive Program (E) 6,736,419
+3 Multi-Family New Builder Construction (E) 1,259,371
+4 Business Energy Check (E) 609,005
+5 Smart $aver Business (E) 2,295,561
+6 Technology Development (E) 792,451
+7 Smart Saver Custom Incentive (E) 419,726
+8 Interruptible Service (D) 57,546,415
+9 Curtailable Service (D) 1,844,350
+10 Load Management (Residential & Commercial) (D) 44,295,307
+11 Low Income Weatherization Assistance Program (E) 385,683
+12 Standby Generation (D) 8,245,271
+13 Qualifying Facility (E) 907,795
+14 Neighborhood Energy Saver (E) 12,775,694
+15 Conservation Program Admin (E) 1,490,407
+16 Conservation Program Admin (D) 1,001,748
+17 Total ECCR Program Costs $145,797,740
+18 2025
+19 12 Months End of Period Net True-Up
+20 Demand & Energy Summary Total (Over)/Under Recovery Total Costs
+21 Energy $32,864,650 ($2,128,516) $30,736,134
+22 Demand 112,933,090 (1,430,639) 111,502,451
+23 Total Demand & Energy Costs $145,797,740 ($3,559,155) $142,238,585
+=== page 14 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Estimated Conservation Program Costs Exhibit No.(KR-IP)
+January 2026 - December 2026 Schedule C-2
+Page 2 of 4
+Line Program Est Est Est Est Est Est Est Est Est Est Est Est
+No. Demand (D) or Energy (E) Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26 Aug-26 Sep-26 Oct-26 Nov-26 Dec-26 Total
+1 Home Energy Check (E) $428,449 $430,013 $435,495 $441,429 $456,280 $435,495 $436,254 $428,561 $447,492 $423,573 $438,569 $390,926 $5,192,537
+2 Residential Incentive Program (E) 560,429 560,774 561,982 563,290 566,563 561,982 562,149 560,453 564,626 559,354 562,660 552,158 $6,736,419
+3 Multi-Family New Builder Construction (E) 104,295 104,535 105,374 106,282 108,554 105,374 105,490 104,313 107,209 103,549 105,844 98,554 $1,259,371
+4 Business Energy Check (E) 50,421 50,542 50,966 51,425 52,574 50,966 51,025 50,429 51,894 50,043 51,204 47,517 $609,005
+5 Smart $aver Business (E) 190,104 190,542 192,076 193,736 197,892 192,076 192,288 190,135 195,433 188,740 192,936 179,604 $2,295,561
+6 Technology Development (E) 65,623 65,775 66,308 66,885 68,327 66,308 66,382 65,634 67,474 65,150 66,607 61,978 $792,451
+7 Smart Saver Custom Incentive (E) 34,862 34,904 35,053 35,213 35,615 35,053 35,073 34,865 35,377 34,730 35,136 33,846 $419,726
+8 Interruptible Service (D) 4,796,710 4,797,243 4,799,640 4,802,302 4,810,564 4,797,883 4,797,129 4,791,696 4,802,339 4,788,079 4,796,436 4,766,393 $57,546,415
+9 Curtailable Service (D) 153,665 153,676 153,716 153,759 153,865 153,716 153,721 153,666 153,802 153,630 153,738 153,395 $1,844,350
+10 Load Management (Residential & Commercial) (D) 3,542,372 3,567,750 3,596,464 3,626,854 3,670,617 3,675,715 3,707,872 3,729,462 3,782,741 3,780,460 3,824,235 3,790,764 $44,295,307
+11 Low Income Weatherization Assistance Program (E) 31,977 32,037 32,247 32,474 33,042 32,247 32,276 31,982 32,706 31,791 32,364 30,542 $385,683
+12 Standby Generation (D) 686,480 686,710 687,515 688,387 690,568 687,515 687,626 686,496 689,277 685,763 687,966 680,968 $8,245,271
+13 Qualifying Facility (E) 74,479 74,909 76,414 78,044 82,123 76,414 76,623 74,510 79,709 73,140 77,258 64,173 $907,795
+14 Neighborhood Energy Saver (E) 1,064,339 1,064,450 1,064,839 1,065,260 1,066,314 1,064,839 1,064,893 1,064,347 1,065,690 1,063,993 1,065,057 1,061,676 $12,775,694
+15 Conservation Program Admin (E) 122,861 123,353 125,075 126,940 131,607 125,075 125,314 122,896 128,845 121,329 126,041 111,070 $1,490,407
+16 Conservation Program Admin (D) 82,579 82,909 84,067 85,320 88,457 84,067 84,227 82,602 86,601 81,549 84,716 74,654 $1,001,748
+17 Total ECCR Program Costs $11,989,644 $12,020,120 $12,067,230 $12,117,598 $12,212,962 $12,144,723 $12,178,342 $12,172,048 $12,291,215 $12,204,872 $12,300,768 $12,098,217 $145,797,740
+18 Demand & Energy Summary
+19 Energy $2,727,838 $2,731,832 $2,745,827 $2,760,977 $2,798,891 $2,745,828 $2,747,766 $2,728,126 $2,776,454 $2,715,390 $2,753,676 $2,632,044 $32,864,650
+20 Demand 9,261,806 9,288,288 9,321,402 9,356,621 9,414,071 9,398,896 9,430,576 9,443,922 9,514,761 9,489,482 9,547,092 9,466,173 112,933,090
+21 Total Demand & Energy Costs $11,989,644 $12,020,120 $12,067,230 $12,117,598 $12,212,962 $12,144,723 $12,178,342 $12,172,048 $12,291,215 $12,204,872 $12,300,768 $12,098,217 $145,797,740
+=== page 15 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Estimated Conservation Program Costs Exhibit No.(KR-1 P)
+January 2026 - December 2026 Schedule C-2
+Page 3 of 4
+Depreciation,
+Line Program Amortization Payroll & Outside Materials &
+No. Demand (D) or Energy (E) & Return Benefits Vehicles Services Supplies Advertising Incentives Other Total
+1 Home Energy Check (E) 0 3,294,707 137,772 336,000 42,920 650,000 686,900 44,237 5,192,537
+2 Residential Incentive Program (E) 0 726,237 35,650 293,504 39,492 300,000 5,307,108 34,428 6,736,419
+3 Multi-Family New Builder Construction (E) 0 504,154 15,218 50,000 45,000 96,000 525,000 24,000 1,259,371
+4 Business Energy Check (E) 0 254,965 14,880 188,160 37,000 60,000 36,000 18,000 609,005
+5 Smart Saver Business (E) 0 921,925 8,782 368,804 16,608 180,000 750,000 49,443 2,295,561
+6 Technology Development (E) 0 320,111 63,540 353,000 35,800 0 0 20,000 792,451
+7 Smart Saver Custom Incentive (E) 0 89,172 2,344 146,800 4,776 60,000 110,000 6,634 419,726
+8 Interruptible Service (D) 712,848 1,914,764 23,745 0 28,452 0 54,863,508 3,098 57,546,415
+9 Curtailable Service (D) 0 23,706 0 0 0 0 1,806,244 14,400 1,844,350
+10 Load Management (Residential & Commercial) (D) 9,002,916 3,995,477 31,500 3,182,200 0 490,700 27,562,658 29,856 44,295,307
+11 Low Income Weatherization Assistance Program (E) 0 126,021 3,000 0 0 35,004 216,048 5,610 385,683
+12 Standby Generation (D) 0 483,993 21,432 0 144,000 0 7,587,103 8,742 8,245,271
+13 Qualifying Facility (E) 0 904,895 700 0 200 0 0 2,000 907,795
+14 Neighborhood Energy Saver (E) 0 233,834 6,000 437,350 0 101,032 11,959,968 37,510 12,775,694
+15 Conservation Program Admin (E) 0 1,035,299 598 263,137 89,706 0 0 101,667 1,490,407
+16 Conservation Program Admin (D) 0 695,856 402 176,863 60,294 0 0 68,333 1,001,748
+17 Total ECCR Program Costs $9,715,764 $15,525,114 $365,563 $5,795,817 $544,247 $1,972,736 $111,410,538 $467,959 $145,797,740
+18 Demand & Energy Summary_
+19 Energy $0 $8,411,319 $288,484 $2,436,755 $311,501 $1,482,036 $19,591,025 $343,530 $32,864,650
+20 Demand 9,715,764 7,113,795 77,079 3,359,062 232,746 490,700 91,819,513 124,429 112,933,090
+21 Total Demand & Energy Costs $9715764 $15,525,114 $565,565 $5,795,817 $544,247 $1,972,736 $111,410,538 $467,959 $145,797,740
+=== page 16 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Schedule of Capital Investment, Depreciation & Return Exhibit No.(KR-IP)
+January 2026 - December 2026 Schedule C-2
+Page 4 of 4
+Line Program Beginning Est Est Est Est Est Est Est Est Est Est Est Est
+No. Demand (D) or Energy (E) Balance Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26 Aug-26 Sep-26 Oct-26 Nov-26 Dec-26 Total
+1 Interruptible Service (D)
+2 Investments $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+3 Retirements 0 0 49,859 0 0 27,666 72,105 0 0 0 0 240,420 390,050
+4 Depreciation Base 3,275,548 3,275,548 3,250,619 3,225,689 3,225,689 3,211,856 3,161,971 3,125,918 3,125,918 3,125,918 3,125,918 3,005,708
+5
+6 Depreciation Expense 54,594 54,594 54,178 53,763 53,763 53,532 52,701 52,100 52,100 52,100 52,100 50,096 635,621
+7
+8 Cumulative Investment 3,275,548 3,275,548 3,275,548 3,225,689 3,225,689 3,225,689 3,198,023 3,125,918 3,125,918 3,125,918 3,125,918 3,125,918 2,885,498 2,885,498
+9 Less: Accumulated Depreciation 2,018,215 2,072,809 2,127,403 2,131,722 2,185,485 2,239,248 2,265,114 2,245,709 2,297,809 2,349,909 2,402,009 2,454,109 2,263,786 2,263,786
+10 Net Investment 1,257,334 1,202,740 1,148,146 1,093,968 1,040,205 986,442 932,910 880,209 828,109 776,009 723,909 671,809 621,713 621,713
+11 Average Investment 1,230,037 1,175,443 1,121,057 1,067,086 1,013,323 959,676 906,559 854,159 802,059 749,959 697,859 646,761
+12 Return on Average Investment 8,463 8,087 7,714 7,342 6,973 6,603 6,238 5,877 5,519 5,160 4,801 4,450 77,227
+13
+14 Program Total $63,057 $62,681 $61,892 $61,105 $60,736 $60,135 $58,939 $57,977 $57,619 $57,260 $56,901 $54,546 $712,848
+Line Program Beginning Est Est Est Est Est Est Est Est Est Est Est Est
+No. Demand (D) or Energy (E) Balance Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26 Aug-26 Sep-26 Oct-26 Nov-26 Dec-26 Total
+15 Residential Load Management Switches (D)
+16 Investments $1,120,859 $1,193,112 $1,337,617 $1,337,617 $1,482,122 $1,577,500 $1,577,500 $1,539,171 $1,383,867 $1,337,617 $1,239,361 $1,120,859 $16,247,202
+17 Retirements 10,608 72,050 400,008 271,184 137,809 95,254 236,506 97,653 131,430 116,650 97,981 (32,584) 1,634,549
+18 Closings to Plant 0 000 0 000000 0 0
+19 Amortization Base 25,161,482 26,241,012 27,198,095 28,200,116 29,333,237 30,698,828 32,110,447 33,520,868 34,945,497 36,205,324 37,435,626 38,642,288
+20
+21 Amortization Expense 419,366 437,359 453,311 470,011 488,897 511,657 535,185 558,692 582,437 603,434 623,940 644,051 6,328,340
+22
+23 Cumulative Plant Investment 25,166,786 26,277,037 27,398,099 28,335,708 29,402,141 30,746,455 32,228,700 33,569,694 35,011,212 36,263,649 37,484,616 38,625,996 39,779,439 39,779,439
+24 Less: Accumulated Depreciation 7,286,168 7,694,926 8,060,235 8,113,538 8,312,365 8,663,454 9,079,856 9,378,535 9,839,574 10,290,581 10,777,365 11,303,324 11,979,959 11,979,959
+25 Net Investment 17,880,618 18,582,111 19,337,864 20,222,170 21,089,776 22,083,001 23,148,844 24,191,159 25,171,638 25,973,068 26,707,251 27,322,672 27,799,480 27,799,480
+26 Average Investment 18,231,365 18,959,988 19,780,017 20,655,973 21,586,389 22,615,923 23,670,002 24,681,399 25,572,353 26,340,160 27,014,962 27,561,076
+27 Return on Average Investment 125,443 130,456 136,098 142,125 148,527 155,611 162,863 169,823 175,953 181,236 185,879 189,636 1,903,650
+28
+29 Program Total $544,809 $567,815 $589,409 $612,136 $637,424 $667,268 $698,048 $728,515 $758,390 $784,670 $809,819 $833,687 $8,231,990
+Line Program Beginning Est Est Est Est Est Est Est Est Est Est Est Est
+No. Demand (D) or Energy (E) Balance Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26 Aug-26 Sep-26 Oct-26 Nov-26 Dec-26 Total
+30 Load Management Software (D)
+31 Expenditures Booked Directly to Plant $34,375 $34,375 $34,375 $34,375 $34,375 $34,375 $34,375 $34,375 $34,375 $34,375 $34,375 $34,375 $412,500
+32 Retirements 0 000 0 000000 0 0
+33 Investments Booked to CWIP 0 000 0 000000 0 0
+34 Closings to Plant 0 000 0 000000 0 0
+35 Amortization Base 2,892,514 2,926,889 2,961,264 2,995,639 3,030,014 3,064,389 3,098,764 3,133,139 3,167,514 3,201,889 3,236,264 3,270,639
+36
+37 Amortization Expense 48,210 48,782 49,355 49,928 50,501 51,074 51,647 52,220 52,793 53,366 53,939 54,512 616,327
+38
+39 Cumulative Plant Investment 2,892,514 2,926,889 2,961,264 2,995,639 3,030,014 3,064,389 3,098,764 3,133,139 3,167,514 3,201,889 3,236,264 3,270,639 3,305,014 616,327
+40 Less: Accumulated Amortization 925,038 973,248 1,022,030 1,071,385 1,121,313 1,171,814 1,222,888 1,274,535 1,326,755 1,379,548 1,432,914 1,486,853 1,541,365 (616,327)
+41 Cumulative CWIP Investment 00 000 0 000000 0 0
+42 Net Plant Investment 1,967,476 1,953,641 1,939,234 1,924,254 1,908,701 1,892,575 1,875,876 1,858,604 1,840,759 1,822,341 1,803,350 1,783,786 1,763,649 1,232,654
+43 Average Investment 1,960,559 1,946,438 1,931,744 1,916,478 1,900,638 1,884,226 1,867,240 1,849,682 1,831,550 1,812,846 1,793,568 1,773,718
+44 Return on Average Investment 13,490 13,392 13,292 13,186 13,078 12,964 12,848 12,727 12,602 12,474 12,341 12,205 154,599
+45
+46 Program Total $61,700 $62,174 $62,647 $63,114 $63,579 $64,038 $64,495 $64,947 $65,395 $65,840 $66,280 $66,717 $770,926
+47 Demand & Energy Summary_
+48 Energy $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+49 Demand 2,568,425 2,576,934 2,583,045 2,589,719 2,598,798 2,611,629 2,624,227 2,636,174 2,647,559 2,654,776 2,660,288 2,661,951 $31,413,525
+50 Total Depreciation & Return $2,568,425 $2,576,934 $2,583,045 $2,589,719 $2,598,798 $2,611,629 $2,624,227 $2,636,174 $2,647,559 $2,654,776 $2,660,288 $2,661,951 $31,413,525
+=== page 17 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Program Costs Exhibit No.(KR-IP)
+January 2025 - June 2025 Actuals Schedule C-3
+July 2025 - December 2025 Estimates Page 1 of 5
+Depreciation_ Operating & Maintenance Costs_ Program
+Line Program Amortization Payroll & Outside Materials Revenues
+No. Demand (D) or Energy (E) & Return Benefits Vehicles Services & Supplies Advertising Incentives Other (Credits) Total
+1 Home Energy Check (E)
+2 A. Actual $0 $1,859,883 $59,828 $131,964 $24,130 $157,662 $214,586 $36,385 $0 $2,484,437
+3 B. Estimated 0 1,770,000 61,391 130,662 11,000 280,000 335,000 15,000 0 2,603,053
+4
+5 C. Total $0 $3,629,883 $121,219 $262,626 $35,130 $437,662 $549,586 $51,385 $0 $5,087,490
+6
+7 Residential Incentive Program (E)
+8 A. Actual $0 $504,501 $28,159 $114,194 $9,991 $44,946 $764,443 $34,304 $0 $1,500,540
+9 B. Estimated 0 503,574 29,142 114,606 7,200 169,000 1,690,150 34,200 0 2,547,872
+10
+11 C. Total $0 $1,008,075 $57,301 $228,800 $17,191 $213,946 $2,454,593 $68,504 $0 $4,048,412
+12
+13 Multi-Family New Builder Construction (E)
+14 A. Actual $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+15 B. Estimated 0 197,368 2,750 6,000 6,000 14,500 135,000 250 0 361,868
+16
+17 C. Total $0 $197,368 $2,750 $6,000 $6,000 $14,500 $135,000 $250 $0 $361,868
+18
+19 Business Energy Check (E)
+20 A. Actual $0 $153,316 $2,084 $40,243 $16,839 ($1) $0 $8,497 $0 $220,977
+21 B. Estimated 0 144,000 3,600 54,000 4,200 18,000 45,000 10,200 0 279,000
+22
+23 C. Total $0 $297,316 $5,684 $94,243 $21,039 $17,999 $45,000 $18,697 $0 $499,977
+24
+25 Better Business (E)
+26 A. Actual $0 $674,242 $955 $60,146 $1,308 $3,700 $319,214 $37,571 $0 $1,097,137
+27 B. Estimated 0 720,000 2,400 60,000 1,856 30,000 390,000 42,000 0 1,246,256
+28
+29 C. Total $0 $1,394,242 $3,355 $120,146 $3,164 $33,700 $709,214 $79,571 $0 $2,343,393
+30
+31 Technology Development (E)
+32 A. Actual $0 $93,238 $31,772 $99,583 $58,604 $0 $0 $3,084 $0 $286,280
+33 B. Estimated 0 99,343 32,046 49,000 20,000 0 0 15,429 0 215,817
+34
+35 C. Total $0 $192,581 $63,818 $148,583 $78,604 $0 $0 $18,512 $0 $502,098
+36
+37 Smart $aver Custom Incentive Program (E)
+38 A. Actual $0 $26,297 $0 $12,254 $567 $0 $0 $12,718 $0 $51,835
+39 B. Estimated 0 27,000 900 30,000 1,500 0 108,402 12,600 0 180,402
+40
+41 C. Total $0 $53,297 $900 $42,254 $2,067 $0 $108,402 $25,318 $0 $232,237
+42
+43 Interruptible Service (D)
+44 A. Actual $399,374 $311,537 $15,931 $212 $8,994 $0 $25,311,188 $2,990 $0 $26,050,225
+45 B. Estimated 383,785 335,358 15,864 6,358 25,949 0 26,193,726 9,000 0 26,970,040
+46
+47 C. Total $783,159 $646,895 $31,795 $6,570 $34,943 $0 $51,504,914 $11,990 $0 $53,020,265
+=== page 18 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Program Costs Exhibit No.(KR-IP)
+January 2025 - June 2025 Actuals Schedule C-3
+July 2025 - December 2025 Estimates Page 2 of 5
+Dep rec ¡at io n _ Operating & Maintenance Costs_ P rog ra m
+Line Program Amortization Payroll & Outside Materials Revenues
+No. Demand (D) or Energy (E) & Return Benefits Vehicles Services & Supplies Advertising Incentives Other (Credits) Total
+1 Curtailable Service (D)
+2 A. Actual $0 $35,523 $0 $0 $0 $0 $335,467 $0 $0 $370,990
+3 B. Estimated 0 38,106 0 0 0 0 1,553,157 0 0 1,591,263
+4
+5 C. Total $0 $73,629 $0 $0 $0 $0 $1,888,624 $0 $0 $1,962,253
+6
+7 Load Management (Residential & Commercial) (D)
+8 A. Actual $2,828,858 $1,490,651 $27,052 $1,544,936 $180,213 $154,002 $11,162,105 $41,177 $0 $17,428,994
+9 B. Estimated 3,399,976 1,711,640 45,497 1,359,822 57,540 247,500 12,739,028 47,304 0 19,608,307
+10
+11 C. Total $6,228,834 $3,202,291 $72,549 $2,904,758 $237,753 $401,502 $23,901,133 $88,481 $0 $37,037,301
+12
+13 Low Income Weatherization Assistance Program (E)
+14 A. Actual $0 $90,205 $763 $1,504 $2 $1,106 $76,918 $9,518 $0 $180,015
+15 B. Estimated 0 100,863 1,322 1,800 0 15,978 133,266 3,150 0 256,379
+16
+17 C. Total $0 $191,068 $2,085 $3,304 $2 $17,084 $210,184 $12,668 $0 $436,394
+18
+19 Standby Generation (D)
+20 A. Actual $0 $216,448 $7,470 $23,292 $22,972 $0 $3,245,766 $3,105 $0 $3,519,053
+21 B. Estimated 0 227,425 16,318 15,499 21,344 0 3,455,049 4,783 0 3,740,418
+22
+23 C. Total $0 $443,872 $23,788 $38,791 $44,316 $0 $6,700,815 $7,888 $0 $7,259,471
+24
+25 Qualifying Facility (E)
+26 A. Actual $0 $316,720 $13 $0 $0 $0 $0 $441 $0 $317,173
+27 B. Estimated 0 385,200 150 0 150 0 0 600 0 386,100
+28
+29 C. Total $0 $701,920 $163 $0 $150 $0 $0 $1,041 $0 $703,273
+30
+31 Neighborhood Energy Saver (E)
+32 A. Actual $0 $114,549 $957 $41,372 $845 $67,665 $5,510,447 $15,050 $0 $5,750,885
+33 B. Estimated 0 114,549 2,970 198,000 1,100 42,036 6,200,000 27,000 0 6,585,655
+34
+35 C. Total $0 $229,099 $3,927 $239,372 $1,945 $109,701 $11,710,447 $42,050 $0 $12,336,541
+36
+37 Conservation Program Admin (D)+(E)
+38 A. Actual $0 $918,396 $174 $93,092 $41,202 $3,637 $0 $83,808 $0 $1,140,308
+39 B. Estimated 0 1,016,480 0 149,639 46,292 (3,637) 0 103,672 0 1,312,447
+40
+41 C. Total $0 $1,934,877 $174 $242,731 $87,494 $0 $0 $187,480 $0 $2,452,755
+Actual $3,228,232 $6,805,507 $175,157 $2,162,791 $365,667 $432,717 $46,940,133 $288,647 $0 $60,398,850
+Estimated $3,783,761 $7,390,906 $214,351 $2,175,386 $204,132 $813,377 $52,977,778 $325,188 $0 $67,884,878
+42 ECCR Program Costs $7,011,993 $14,196,413 $389,508 $4,338,177 $569,798 $1,246,094 $99,917,911 $613,835 $0 $128,283,728
+=== page 19 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Schedule of Capital Investment, Depreciation & Return Exhibit No.(KR-IP)
+January 2025 - June 2025 Actuals Schedule C-3
+July 2025 - December 2025 Estimates Page 3 of 5
+Line Program Beginning Act Act Act Act Act Act Est Est Est Est Est Est
+No. Demand (D) or Energy (E) Balance Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Total
+1 Interruptible Service (D)
+2 Investments $24,521 $0 $0 ($2,127) $68 $9,018 $0 $0 $36,548 $0 $0 $0 $68,028
+3 Retirements 0 0 0 0 0 0 70,118 0 0 0 0 0 70,118
+4 Depreciation Base 3,277,638 3,302,159 3,302,159 3,302,159 3,300,032 3,300,100 3,274,059 3,239,000 3,239,000 3,275,548 3,275,548 3,275,548
+5
+6 Depreciation Expense 54,628 55,037 55,037 55,037 55,002 55,003 54,569 53,984 53,984 54,594 54,594 54,594 656,063
+7
+8 Cumulative Investment 3,277,638 3,302,159 3,302,159 3,302,159 3,300,032 3,300,100 3,309,118 3,239,000 3,239,000 3,275,548 3,275,548 3,275,548 3,275,548 3,275,548
+9 Less: Accumulated Depreciation 1,432,270 1,486,898 1,541,935 1,596,972 1,652,009 1,707,011 1,762,014 1,746,465 1,800,449 1,854,433 1,909,027 1,963,621 2,018,215 2,018,215
+10 Net Investment 1,845,369 1,815,262 1,760,225 1,705,188 1,648,024 1,593,090 1,547,105 1,492,536 1,438,552 1,421,116 1,366,522 1,311,928 1,257,334 1,257,334
+11 Average Investment 1,830,315 1,787,743 1,732,706 1,676,606 1,620,557 1,570,097 1,519,820 1,465,544 1,429,834 1,393,819 1,339,225 1,284,631
+12 Return on Average Investment 12,473 12,182 11,807 11,425 11,043 10,700 10,357 9,987 9,743 9,498 9,126 8,755 127,096
+13
+14 Program Total $67,101 $67,219 $66,844 $66,462 $66,045 $65,703 $64,926 $63,971 $63,727 $64,092 $63,720 $63,349 $783,159
+Line Program Beginning Act Act Act Act Act Act Est Est Est Est Est Est
+No. Demand (D) or Energy (E) Balance Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Total
+15 Residential Load Management Switches (D)
+16 Investments $560,915 $822,131 $1,194,089 $1,633,825 $580,174 $930,663 $957,991 $957,991 $993,355 $933,428 $786,045 $491,277 $10,841,884
+17 Retirements 723,783 557,714 85,487 137,758 (2,598) 8,058 388,176 535,234 574,731 453,120 557,666 222,645 4,241,773
+18 Closings to Plant 000000000000 0
+19 Amortization Base 18,204,783 18,124,950 18,625,480 19,707,947 21,274,193 21,851,637 22,584,183 23,080,469 23,483,477 23,962,906 24,390,941 24,786,831
+20
+21 Amortization Expense 303,419 302,089 310,431 328,472 354,577 364,201 376,411 384,682 391,399 399,390 406,524 413,122 4,334,717
+22
+23 Cumulative Investment 18,566,675 18,403,807 18,668,224 19,776,826 21,272,894 21,855,666 22,778,271 23,348,085 23,770,843 24,189,466 24,669,774 24,898,153 25,166,786 25,166,786
+24 Less: Accumulated Amortization 7,193,223 6,772,859 6,517,235 6,742,179 6,932,893 7,290,068 7,646,212 7,634,446 7,483,895 7,300,562 7,246,832 7,095,690 7,286,168 7,286,168
+25 Net Investment 11,373,451 11,630,947 12,150,989 13,034,647 14,340,000 14,565,598 15,132,059 15,713,639 16,286,948 16,888,904 17,422,942 17,802,463 17,880,618 17,880,618
+26 Average Investment 11,502,199 11,890,968 12,592,818 13,687,324 14,452,799 14,848,828 15,422,849 16,000,294 16,587,926 17,155,923 17,612,703 17,841,541
+27 Return on Average Investment 78,382 81,031 85,813 93,273 98,489 101,187 105,099 109,034 113,039 116,909 120,022 121,581 1,223,859
+28
+29 Program Total $381,801 $383,120 $396,244 $421,745 $453,066 $465,388 $481,510 $493,716 $504,438 $516,299 $526,546 $534,703 $5,558,576
+Line Program Beginning Act Act Act Act Act Act Est Est Est Est Est Est
+No. Demand (D) or Energy (E) Balance Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Total
+30 Load Management Software (D)
+31 Expenditures Booked Directly to Plan- $0 $0 $0 $0 $0 $0 $68,750 $68,750 $68,750 $68,750 $68,750 $68,750 $412,500
+32 Retirements 000000000000 0
+33 Investments Booked to CWIP 000000000000 0
+34 Closings to Plant 000000000000 0
+35 Amortization Base 2,480,014 2,480,014 2,480,014 2,480,014 2,480,014 2,480,014 2,480,014 2,548,764 2,617,514 2,686,264 2,755,014 2,823,764
+36
+37 Amortization Expense 41,334 41,334 41,334 41,334 41,334 41,334 41,334 42,480 43,626 44,772 45,918 47,064 513,198
+38
+39 Cumulative Plant Investment 2,480,014 2,480,014 2,480,014 2,480,014 2,480,014 2,480,014 2,480,014 2,548,764 2,617,514 2,686,264 2,755,014 2,823,764 2,892,514 2,892,514
+40 Less: Accumulated Amortization 411,840 453,174 494,508 535,842 577,176 618,510 659,844 701,178 743,658 787,284 832,056 877,974 925,038 925,038
+41 Cumulative CWIP Investment 0000000000000 0
+42 Net Plant Investment 2,068,174 2,026,840 1,985,506 1,944,172 1,902,838 1,861,504 1,820,170 1,847,586 1,873,856 1,898,980 1,922,958 1,945,790 1,967,476 1,967,476
+43 Average Investment 2,047,507 2,006,173 1,964,839 1,923,505 1,882,171 1,840,837 1,833,878 1,860,721 1,886,418 1,910,969 1,934,374 1,956,633
+44 Return on Average Investment 13,953 13,671 13,389 13,107 12,826 12,544 12,497 12,680 12,855 13,022 13,182 13,334 157,060
+45
+46 Program Total $55,287 $55,005 $54,723 $54,441 $54,160 $53,878 $53,831 $55,160 $56,481 $57,794 $59,100 $60,398 $670,258
+47 Demand & Energy Summary
+48 Energy $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+49 Demand 504,189 505,344 517,811 542,648 573,271 584,969 600,267 612,847 624,646 638,185 649,366 658,450 $7,011,993
+50 Total Depreciation & Return $504,189 $505,344 $517,811 $542,648 $573,271 $584,969 $600,267 $612,847 $624,646 $638,185 $649,366 $658,450_ $7,011,993
+=== page 20 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Energy Conservation Adjustment Exhibit No.(KR-1 P)
+Calculation of True-Up Schedule C-3
+January 2025 - December 2025 Page 4 of 5
+Line Act Act Act Act Act Act Est Est Est Est Est Est
+No. Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Total
+1 ECCR Revenues $9,057,562 $8,443,288 $7,605,878 $8,445,172 $9,405,565 $11,282,919 $11,649,619 $12,074,735 $11,730,444 $10,787,750 $8,887,793 $8,671,708 $118,042,432
+2 Prior Period True-Up Over/(Under) Recovery 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 13,433,500
+3 ECCR Revenues Applicable to Period 10,177,020 9,562,747 8,725,336 9,564,630 10,525,023 12,402,377 12,769,078 13,194,193 12,849,902 11,907,208 10,007,251 9,791,167 131,475,932
+4 ECCRExpenses 10,215,694 11,050,235 8,727,885 9,042,272 10,830,985 10,531,779 11,283,786 11,296,366 11,308,165 11,321,704 11,332,885 11,341,969 128,283,728
+5 True-Up This Period (Over)ZUnder Recovery 38,674 1,487,489 2,549 (522,358) 305,962 (1,870,598) (1,485,291) (1,897,827) (1,541,737) (585,503) 1,325,634 1,550,803 (3,192,204)
+6 Current Period Interest (46,651) (39,942) (33,213) (29,984) (26,560) (25,532) (27,512) (29,665) (31,928) (31,842) (26,606) (17,516) (366,951)
+7 Adjustments 00000000000 0 0
+8 True-Up & Interest Provision Beginning of Period (13,433,500) (12,322,019) (9,755,014) (8,666,220) (8,099,104) (6,700,244) (7,476,915) (7,870,260) (8,678,294) (9,132,500) (8,630,387) (6,211,901) (13,433,500)
+9 Prior Period True-Up Over/(Under) Recovery 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 1,119,458 13,433,500
+10 End of Period Net True-Up ($12,322,019) ($9,755,014) ($8,666,220) ($8,099,104) ($6,700,244) ($7,476,915) ($7,870,260) ($8,678,294) ($9,132,500) ($8,630,387) ($6,211,901) ($3,559,155) ($3,559,155)
+=== page 21 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC Duke Energy Florida, LLC
+Energy Conservation Cost Recovery Witness: Karla Rodriguez
+Calculation of Interest Provision Exhibit No.(KR-IP)
+January 2025 - December 2025 Schedule C-3
+Page 5 of 5
+Line Act Act Act Act Act Act Est Est Est Est Est Est
+No. Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Total
+1 Beginning True-Up Amount
+(C3, Page 6 of 6, Line 8) ($13,433,500) ($12,322,019) ($9,755,014) ($8,666,220) ($8,099,104) ($6,700,244) ($7,476,915) ($7,870,260) ($8,678,294) ($9,132,500) ($8,630,387) ($6,211,901)
+2 Ending True-Up Amount
+Before Interest
+(C3, Page 6 of 6, Lines 5, 7, 8, 9) (12,275,368) (9,715,072) (8,633,007) (8,069,120) (6,673,684) (7,451,383) (7,842,748) (8,648,629) (9,100,572) (8,598,545) (6,185,295) (3,541,639)
+3 Total Beginning & Ending
+True-Up
+(Une 1 + Une 2) (25,708,868) (22,037,091) (18,388,021) (16,735,340) (14,772,788) (14,151,628) (15,319,664) (16,518,889) (17,778,866) (17,731,045) (14,815,682) (9,753,540)
+4 Average True-Up Amount
+(50% of Line 3) (12,854,434) (11,018,545) (9,194,011) (8,367,670) (7,386,394) (7,075,814) (7,659,832) (8,259,445) (8,889,433) (8,865,523) (7,407,841) (4,876,770)
+5 Interest Rate: First Day
+Reporting Business Month 4.36% 4.35% 4.35% 4.32% 4.28% 4.35% 4.31% 4.31% 4.31% 4.31% 4.31% 4.31%
+6 Interest Rate: First Day
+Subsequent Business Month 4.35% 4.35% 4.32% 4.28% 4.35% 4.31% 4.31% 4.31% 4.31% 4.31% 4.31% 4.31%
+7 Total (Line 5 & Line 6)
+(Une 5 + Une 6) 8.71% 8.70% 8.67% 8.60% 8.63% 8.66% 8.62% 8.62% 8.62% 8.62% 8.62% 8.62%
+8 Average Interest Rate
+(50% of Line 7) 4.36% 4.35% 4.34% 4.30% 4.32% 4.33% 4.31% 4.31% 4.31% 4.31% 4.31% 4.31%
+9 Interest Provision
+(Une 4 * Une 8) / 12 ($46,651)_ ($39,942)_ ($33,213)_ ($29,984)_ ($26,560)_ ($25,532)_ ($27,512)_ ($29,665)_ ($31,928)_ ($31,842)_ ($26,606)_ ($17,516) ($366,951)
+=== page 22 ===
+FPSC Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit No.(KR-IP)
+Schedule C-4
+Page 1 of 1
+Duke Energy Florida, LLC
+Energy Conservation Cost Recovery
+Calculation of ECCR Revenues
+January 2025 - June 2025 Actuals
+July 2025 - December 2025 Estimates
+Line Jurisdictional
+No. Month mWh Sales Revenues
+1 January 3,218,829 $9,057,562
+2 February 2,934,575 8,443,288
+3 March 2,657,115 7,605,878
+4 April 3,003,112 8,445,172
+5 May 3,360,875 9,405,565
+6 June 4,079,841 11,282,919
+7 July 4,044,528 11,649,619
+8 August 4,221,849 12,074,735
+9 September 4,085,725 11,730,444
+10 October 3,618,737 10,787,750
+11 November 2,942,133 8,887,793
+12 December 2,831,890 8,671,708
+13 Total 40,999,210 $118,042,432
+=== page 23 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 1 of 18
+Program Description and Progress
+Program Title: Home Energy Check
+Program Description: The Home Energy Check is a residential energy audit program
+that provides residential customers with an analysis of their energy consumption as well
+as educational information on how to reduce energy usage and save money. The audit
+provides the opportunity to inform customers about incentives and bill savings that may
+be available through DEF’s energy efficiency and demand response programs, while also
+educating and encouraging customers to implement energy-saving practices.
+Program Projections - January 2026 - December 2026: DEF estimates that 25,000
+customers will participate in this program during the projection period. In addition,
+Assistance Kits will be available for up to 20,000 qualifying low-income customers through
+this program.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $5,192,537.
+Program Progress Summary: As of June 30, 2025, 14,666 customers have participated
+in this program this year. DEF will continue to inform customers about cost effective
+energy efficiency measures that will provide savings through this Program.
+=== page 24 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 2 of 18
+Program Description and Progress
+Program Title: Residential Incentive
+Program Description: The Residential Incentive program provides residential customers
+that have participated in the Home Energy Check Program with incentives for energy
+efficiency improvements in existing homes. The Residential Incentive program includes
+incentives for measures such as duct testing, duct repair, attic insulation, replacement
+windows, high efficiency heat pump replacing resistance heat, and high efficiency heat
+pump replacing a heat pump.
+Program Projections - January 2026 - December 2026: DEF estimates that
+approximately 11,000 measures will be provided to program participants through this
+program during the projection period.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $6,736,419.
+Program Progress Summary: As of June 30, 2025, DEF has provided incentives to
+customers for a total of 4,400 measure installations.
+=== page 25 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 3 of 18
+Program Description and Progress
+Program Title: Multi-Family New Builder Construction
+Program Description: The Multi-Family New Builder Construction program is a new
+program in 2025. This program is designed to provide incentives to builders and allows
+bundling of multi-family measures. This program builds on customer awareness through
+the Home Energy Check program, trade-ally support, and communication and marketing
+efforts designed to educate builders and landlords on cost-effective measures for multi¬
+family homes.
+Program Projections - January 2026 - December 2026: DEF estimates that
+approximately 1,000 measures will be provided to program participants through this
+program during the projection period.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $1,259,371.
+Program Progress Summary: As of June 30, 2025, given the program launched in early
+2025, DEF has not provided measures, as there are currently no participants in this
+program.
+=== page 26 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 4 of 18
+Program Description and Progress
+Program Title: Neighborhood Energy Saver
+Program Description: The Neighborhood Energy Saver program is designed to assist
+customers in selected neighborhoods where approximately 50% of the households have
+incomes equal to or less than 200% of the poverty level as established by the U.S.
+Government. DEF or a third-party contractor directly installs energy conservation
+measures, identified through an energy assessment, in customer homes to increase
+energy efficiency. Customers also receive a comprehensive package of energy efficiency
+education materials which inform them on ways to better manage their energy usage.
+Energy conservation measures are installed, and energy efficiency education is provided
+at no cost to the participants.
+Program Projections - January 2026 - December 2026: DEF’s projections assume that
+energy conservation measures will be installed in 5,775 homes. The projection includes
+the targeted increase of 5% or 250 homes above the projected participation included in
+DEF’s 2025 Program Plan.
+Program Fiscal Costs for January 2026 - December 2026: Costs for this program are
+projected to be $12,775,694.
+Program Progress Summary: As of June 30, 2025, DEF has installed measures on
+2,590 homes.
+=== page 27 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 5 of 18
+Program Description and Progress
+Program Title: Low-Income Weatherization Assistance Program
+Program Description: The Low-Income Weatherization Assistance Program is designed
+to integrate DEF’s program measures with assistance provided by the Florida Department
+of Economic Opportunity (DEO) and local weatherization providers to deliver energy
+efficiency measures to low-income eligible families. Through this partnership, DEF
+assists local weatherization agencies and other non-profit or government agencies by
+providing energy education materials and financial incentives to weatherize the homes of
+low-income families.
+Program Projections - January 2026 - December 2026: It is estimated that energy
+efficiency weatherization measures will be installed on approximately 256 residential
+homes.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $385,683.
+Program Progress Summary: As of June 30, 2025, measures have been installed on
+156 homes.
+=== page 28 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 6 of 18
+Program Description and Progress
+Program Title: Load Management Program (Residential & Commercial)
+Program Description: The Residential Load Management program (a/k/a EnergyWise) is
+a voluntary program that incorporates direct control of selected customer equipment to
+reduce system demand during winter and summer peak capacity periods and/or emergency
+conditions by temporarily interrupting selected customer appliances for specified periods of
+time. Residential customers have a choice of options and receive credit on their monthly
+electric bills depending on the load control options selected and their monthly kWh usage.
+The Commercial program was closed to new participants as of July 20, 2000.
+Program Projections - January 2026 - December 2026: During this period, DEF
+anticipates adding approximately 3,091 new participants to this program.
+Program Fiscal Costs - January 2026 - December 2026: Program costs during this period
+are projected to be $44,295,307.
+Program Progress Summary: Through June 30, 2025, DEF added a total of 1,256 new
+participants to this program. In 2026, DEF plans to continue to implement a demand
+response switch upgrade and replacement program to reconnect, replace and install new
+equipment to maintain long-term program capabilities.
+=== page 29 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 7 of 18
+Program Description and Progress
+Program Title: Business Energy Check
+Program Description: The Business Energy Check program provides no-cost energy
+audits at non-residential facilities. This program acts as a motivational tool to identify,
+evaluate, and inform consumers about cost-effective, energy saving measures that can
+be installed at their facility. The Business Energy Check program serves as the foundation
+for the Smart $aver Business program.
+Program Projections - January 2026 - December 2026: It is estimated that 400
+customers will participate in this program during the projection period.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $609,005.
+Program Progress Summary: As of June 30, 2025, DEF has performed a total of 128
+commercial audits.
+=== page 30 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 8 of 18
+Program Description and Progress
+Program Title: Smart $aver Business
+Program Description: This umbrella energy efficiency program provides prescriptive
+incentives to existing commercial, industrial, and governmental customers for heating, air
+conditioning, ceiling insulation, duct leakage and repair, demand-control ventilation, high
+efficiency energy recovery ventilation and HVAC-optimization-qualifying measures.
+Program Projections - January 2026 - December 2026: DEF’s 2026 projected costs
+are based on the measures and projected participation included in the 2025 Program
+Plan and include approximately $750,000 in incentives to customers.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $2,295,561 .
+Program Progress Summary: As of June 30, 2025, DEF has provided $320,000 in
+incentives to its customers and expects to provide an additional $376,000 through year¬
+end.
+=== page 31 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 9 of 18
+Program Description and Progress
+Program Title: Smart $aver Custom Incentive (f/k/a Florida Custom Incentive)
+Program Description: The Smart $aver Custom Incentive program is designed to
+encourage non-residential customers to make capital investments for energy efficiency
+measures which reduce peak kW and provide energy savings. This program provides
+incentives for individual custom projects, which are cost effective, but not otherwise
+addressed through DEF’s prescriptive program. Examples of energy-efficient
+technologies that would be considered under this program include, but are not limited to,
+new construction measures and new thermal energy storage systems.
+Program Projections - January 2026 - December 2026: DEF estimates that 25
+customers will participate in the program during the projection period.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $419,726.
+Program Progress Summary: As of June 30, 2025, no customers have participated in
+this program. However, continued evaluation of potential customer projects and the
+included measures are taking place for participation that could occur later in the year.
+=== page 32 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 10 of 18
+Program Description and Progress
+Program Title: Standby Generation
+Program Description: The Standby Generation program is a demand control program
+that is designed to reduce DEF’s system demand based on control of customer
+equipment. It is a voluntary program available to commercial and industrial customers
+who have on-site generation capability and are willing to reduce their DEF demand when
+necessary. This program is offered to customers through DEF’s General Service Load
+Management-2 (GSLM-2) rate schedule.
+Program Projections - January 2026 - December 2026: DEF estimates that 10 new
+installations will be completed during the projection period.
+Program Fiscal Costs - January 2026 - December 2026: Expenses for this program
+are projected to be $8,245,271 .
+Program Progress Summary: As of June 30, 2025, there are 7 new customers and
+currently a total of 193 accounts participating in this program.
+=== page 33 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 11 of 18
+Program Description and Progress
+Program Title: Interruptible Service
+Program Description: Interruptible Service is a direct load control DSM program in which
+customers contract to allow DEF to interrupt their electrical service during times of
+capacity shortages during peak or emergency conditions. In return, customers receive a
+monthly credit on their bill based on their monthly peak demand.
+Program Projections - January 2026 - December 2026: 3 new accounts are estimated
+to sign up for this program during the projection period.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $57,546,415.
+Program Progress Summary: As of June 30, 2025, no new customers have been added
+and there are currently a total of 174 accounts participating in this program.
+=== page 34 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 12 of 18
+Program Description and Progress
+Program Title: Curtailable Service
+Program Description: Curtailable Service is an indirect load control DSM program in
+which customers contract to curtail or reduce a portion of their electric load during times
+of capacity shortages. The curtailment is managed by the customer when notified by
+DEF. In return, customers receive a monthly rebate for the curtailable portion of their
+load.
+Program Projections - January 2026 - December 2026: DEF is planning to add 2 new
+participants during the projection period.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $1,844,350.
+Program Progress Summary: As of June 30, 2025, there are 4 new customers with 7
+customers participating in this program.
+=== page 35 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 13 of 18
+Program Description and Progress
+Program Title: Technology Development
+Program Description: The Technology Development program allows DEF to investigate
+technologies that support the development of cost-effective demand reduction and energy
+efficiency programs.
+Program Projections - January 2026 - December 2026: DEF has partnered with
+various research organizations including, the University of South Florida (USF), the
+University of Central Florida (UCF) and the Electric Power Research Institute (EPRI) to
+evaluate energy efficiency, energy storage, demand response, and smart-charging
+technologies. Several research projects associated with these four focus areas will
+continue and/or launch in 2026:
+• Advanced Energy Consumption Monitoring for Energy Efficiency (EE) and
+Demand Response (DR)
+• Advanced Indirect Evaporative Cooling Air Conditioning Project
+• Smart Panel BESS Demand Response Project
+• Variable Capacity Heat Pump Demand Response Project
+• Vehicle to Grid Pilot
+• UCF Long Duration Energy Storage
+• USF Renewable Energy Storage System
+• EPRI Solar PV Evaluation Project
+• Electric Vehicle Supply Equipment (“EVSE”) Monitoring and Control Platform Pilot
+• USF Renewable Energy Storage
+• Smart Charging for Electric Transportation
+• UCF Research 1 Renewable Microgrid Evaluation
+• EPRI programs (EE, energy storage, integration of renewable resources, electric
+transportation infrastructure)
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $792,451 .
+Program Progress Summary: The following provides a summary of projects that DEF
+is currently supporting through this program:
+• Advanced Energy Consumption Monitoring for EE and DR Project: This project will
+=== page 36 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 14 of 18
+Program Description and Progress
+test the capabilities of an advanced energy monitoring system that uses sensors that
+communicate real-time equipment level energy data to a web-based building
+digitization software platform that shows users specific areas and equipment in their
+buildings that are wasting energy, contributing to demand peaks, operating
+inefficiently, and I or are at risk of potential failure. If successful, this technology could
+become a part of Duke Energy’s EE and DR Programs.
+• Advanced Indirect Evaporative Cooling Air Conditioning Project: This project will
+evaluate the EE and DR capability of an energy storing, ultra—efficient, commercial
+packaged air conditioner technology that combines dew-point-style sensible cooling
+with liquid desiccant dehumidification. This technology implements indirect
+evaporative cooling using a liquid desiccant. This desiccant can be recharged and
+stored in a tank for use later. This stored energy can be used to make the peak power
+consumption extremely low. We are piloting this technology at two volunteer customer
+sites. The energy consumption of this technology will be documented. If the testing
+is successful, this technology could be included in future EE and DR programs.
+• Smart Panel BESS Demand Response Project: This project will demonstrate Energy
+Management Circuit Breaker (EMCB) Smart Panel Battery Energy Storage System
+DR utilizing new smart panel and smart breaker technology. This project will test this
+technology’s capability to provide customer demand response and resilience including
+battery energy storage demand response, DR using smart breakers, variable EV
+charging DR and integral microgrid interface device operation to isolate loads from the
+grid during an outage.
+• Variable Capacity Heat Pump Demand Response Project: Variable Capacity Heat
+Pump (VCHP) systems leverage power electronics to vary the speed of compressors
+and fans. DR can be implemented on these systems through utility DR commands,
+delivered through manufacturer cloud platforms, that vary the power consumption of
+the units. This project will document the performance of VCHPs as a DR resource. If
+successful, this technology could become part of Duke Energy’s EE and DR
+Programs.
+• Vehicle to Grid Pilot: This project will evaluate the DR capability of the Ford Lightning
+Electric Pickup Truck in a Vehicle-to-Grid (V2G) configuration. The pilot will consist
+of lab testing of the vehicle, electric vehicle charger and home integration system.
+DEF will also test the system in four employee volunteer DEF customer homes. This
+project will focus on the capabilities of the Ford Lightning EV to provide V2G DR,
+=== page 37 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 15 of 18
+Program Description and Progress
+Vehicle-to-Home backup power and EV charging control. These systems could be a
+valuable future potential resource as a component of DEF’s DR Portfolio.
+• UCF Long-Duration Energy Storage Project: This project with the University of Central
+Florida (UCF) will document the value of long-duration customer-side energy storage
+systems. This project uses technology at UCF’s Microgrid Control lab to directly test
+a long-duration energy storage system. Use cases to be investigated include study
+of battery performance during charging and discharging, documenting the effects of
+cycling on battery performance (battery degradation, efficiency, etc.), optimal
+operation of a battery energy storage system in a distribution system with high
+penetration of solar energy, control of behind-the-meter distributed energy storage
+resources to provide services including, peak capacity management, DR (consuming
+or generating), frequency regulation, ramping capability and voltage management.
+• USF Renewable Energy Storage System: This project with the University of South
+Florida (USF) will leverage customer-sited solar PV and energy storage at the USF
+5 Avenue Garage Microgrid. The system provides load smoothing, islanding, and
+th
+DR. A publicly available dashboard that shows live data, project specific facts and the
+capability of downloading data for further study is available for the site at
+https://dashboards.epri.com/duke-usfsp-parkinq. Results of this research may be
+used for the design of a potential cost-effective DR program.
+• EPRI Solar PV Evaluation Project: This project is utilizing the Electric Power Research
+Institute (EPRI) Solar Distributed Photovoltaics (DPV) project for data collection to
+document customer solar resources with a focus on larger PV arrays with and without
+energy storage. This project also provides the data stream for the dashboard
+mentioned above.
+• EVSE Monitoring and Control Platform Pilot: This project will develop and test EVSE
+monitoring and control platform. This platform is comprised of hardware, firmware,
+and central management system software. It will enable DEF to remotely monitor and
+manage electric vehicle chargers. The platform will allow DEF to control the large
+loads associated with private and public EVSEs during peak demand periods. It will
+also monitor EVSE for functionality and increase the availability of operational EVSE
+through remote reset and reporting disabled equipment for repair.
+• UCF Research 1 Renewable Microgrid Evaluation: This project will evaluate the
+performance and operation of the microgrid at the UCF Research 1 building. It will
+=== page 38 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 16 of 18
+Program Description and Progress
+include solar PV generation and battery energy storage. This technology could
+become a part of future renewable generation and distributed energy resources
+programs.
+• Research programs (EE, energy storage, integration of renewable resources, electric
+transportation infrastructure): DEF will partner with EPRI and other research
+organizations to evaluate EE, energy storage, and alternative energy/innovative
+technologies.
+=== page 39 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 17 of 18
+Program Description and Progress
+Program Title: Qualifying Facility
+Program Description: This program supports the costs to administer and facilitates the
+interconnection and purchase of as-available energy and firm energy and capacity from
+qualifying facilities (QFs), including those that utilize renewable sources and distributed
+energy resources.
+Program Projections - January 2026 - December 2026: DEF, on behalf of its
+customers, will continue to engage with interested parties wanting to provide
+cogeneration, renewable, or distributed resources, (DR) power to DEF. Discussions are
+expected to include potential projects, designs, commitments, grid access, and the
+Florida Public Service Commission’s QF rules with renewable energy storage, and
+combined heat and power parties. DEF expects most parties to explore renewable small
+power production and options to engage with DEF as the technologies advance, markets
+and incentives remain in place, technology costs decline, technology accessibility
+becomes common, and natural gas prices remain volatile or increase. DEF expects that
+the number of potential QFs that engage the company will remain steady for 2026 due to
+federal clean energy subsidies under the Inflation Reduction Act; therefore, DEF requires
+planning, forecasting, screening techniques and robust QF/DR business practices and
+policies as the size and number of QFs and DRs continues to evolve. For example, DEF
+will engage in continued research and analytics to support grid interconnections, good
+faith and non-discriminatory contract negotiations, system impact studies and thorough
+state jurisdictional interconnection processes. DEF will attempt to monitor the existing
+potential QFs under development inside DEF’s balancing authority for: land control,
+permitting, interconnection and/or transmission study progress, construction, financing,
+insurance, and performance. DEF will continue to prudently administer all executed and
+in-service QF contracts for compliance and defend, on behalf of its customers, against all
+disputes or claims originating from QFs/DRs. Finally, DEF will unwind, coordinate, and
+engage with an existing natural gas-fired cogeneration QFs, since this contract will be
+expiring at the end of 2025.
+Program Fiscal Costs - January 2026 - December 2026: Costs for this program are
+projected to be $907,795.
+Program Progress Summary: For 2025, DEF has approximately 104 MW under firm
+wholesale purchase contracts from in-service QFs and 8 non-firm as-available energy QF
+contracts. The total firm capacity from the cogeneration facility is 104 MW. Approximately
+69 MW of renewables, on average, are delivering energy to the company under DEF’s
+non-firm As-Available/COG-1 tariff contract. DEF is preparing for the expiration of a firm
+=== page 40 ===
+Docket No. 20250002-EG
+Duke Energy Florida, LLC
+Witness: Karla Rodriguez
+Exhibit KR-1P
+Schedule C-5
+Page 18 of 18
+Program Description and Progress
+wholesale purchase contract from an in-service cogeneration QF totaling 104 MW after
+December 31, 2025. Two waste-to-energy QFs that had firm contracts in place with DEF
+re-signed tariffs in 2024 to deliver non-firm energy to DEF under its As-Available/COG-1
+tariff contract starting on January 1, 2025. DEF continues to monitor the potential COG-
+1 renewable QFs that are under development in its balancing authority. DEF is managing
+about 3,300 MW as of June 2025 of renewables/distributed energy resources in its state
+and FERC jurisdictional generation interconnection queues. Further, DEF continues to
+prudently administer all in-service QF contracts for compliance and negotiate potential
+new contracts underpinned by DEF’s most current full avoided cost estimates, on behalf
+of its customers.
+=== page 41 ===
+Duke Energy Florida, LLC FPSC Docket No. 20250002-EG
+Energy Conservation Cost Recovery Duke Energy Florida, LLC
+January 2025 - December 2025 Witness: Karla Rodriguez
+Budget Capital Structure and Cost Rates Exhibit No.(KR-IP)
+Schedule C-6
+Page 1 of 2
+(1) (2) (3) (4) (5) (6)
+Jurisdictional Monthly
+Rate Base Revenue Revenue
+Adjusted Cap Cost Weighted Requirement Requirement
+Retail ($000s)_ Ratio_ Rate_ Cost_ Rate_ Rate_
+1 Common Equity $ 9,207,280 45.33% 10.30% 4.67% 6.26% 0.5217%
+2 Long Term Debt 8,244,062 40.59% 4.52% 1.83% 1.83% 0.1525%
+3 Short Term Debt (100,651) -0.50% 4.71% -0.02% -0.02% -0.0017%
+4 Cust Dep Active 136,031 0.67% 2.61% 0.02% 0.02% 0.0017%
+5 Cust Dep Inactive - 0.00% 0.00% 0.0000%
+6 Invest Tax Cr 190,737 0.94% 7.57% 0.07% 0.09% 0.0075%
+7 Deferred Inc Tax 2,632,933 12.96% 0.00% 0.0000%
+8 Total $ 20,310,392 100.00% 6.57% 8.18% 0.6817%
+Cost
+ITC split between Debt and Equity": Ratio Rate Ratio Ratio ITC Weighted ITC After Gross-up
+9 Common Equity 9,207,280 53% 10.3% 5.43% 71.8% 0.07% 0.0503% 0.067%
+10 Preferred Equity - 0% 0.07% 0.0000% 0.000%
+11 Long Term Debt 8,244,062 47% 4.52% 2.13% 28.2% 0.07% 0.0197% 0.020%
+12 17,451,342 100% 7.57% 0.0700% 0.087%
+Breakdown of Revenue Requirement Rate of Return between Debt and Equity:
+13 Total Equity Component (Lines 1 and 9 ) 6.327%
+14 Total Debt Component (Lines 2, 3,4 , and 11 )_ 1.850%
+15 Total Revenue Requirement Rate of Return_ 8.177%
+Notes:
+Effective Tax Rate: 25.345%
+(1) Per Order No. PSC-2020-0165-PAA-EU, issued May 20, 2020, approving amended joint motion modifying WACC methodology
+(2) Column (1)/Total Column (1)
+(3) Per Order No. PSC-2024-0472-AS-EI, Final Order Approving 2024 Settlement Agreement
+Line 6 and Line 12, the cost rate of ITC's is determined under Treasury Regulation section 1,46-6(b)(3)(ii).
+(4) Column (2) x Column (3)
+(5) For equity components: Column (4) / (1-effective income tax rate/100)
+1 For debt components: Column (4)
+“ Line 6 is the pre-tax ITC components from Lines 9 and 11
+(6) Column (5) /12
+=== page 42 ===
+Duke Energy Florida, LLC FPSC Docket No. 20250002-EG
+Energy Conservation Cost Recovery Duke Energy Florida, LLC
+January 2026 - December 2026 Witness: Karla Rodriguez
+Projected Capital Structure and Cost Rates Exhibit No.(KR-IP)
+Schedule C-6
+Page 2 of 2
+(1) (2) (3) (4) (5) (6)
+Jurisdictional Monthly
+Rate Base Revenue Revenue
+Adjusted Cap Cost Weighted Requirement Requirement
+_ Retail ($000s)_ Ratio_ Rate_ Cost_ Rate_ Rate_
+1 Common Equity $ 9,665,641 45.33% 10.30% 4.67% 6.26% 0.5217%
+2 Long Term Debt 8,588,710 40.28% 4.68% 1.89% 1.89% 0.1575%
+3 Short Term Debt 14,329 0.07% 5.01% 0.00% 0.00% 0.0000%
+4 Cust Dep Active 136,315 0.64% 2.61% 0.02% 0.02% 0.0017%
+5 Cust Dep Inactive - 0.00% 0.00% 0.0000%
+6lnvestTaxCr 198,503 0.93% 7.66% 0.07% 0.09% 0.0075%
+7 Deferred Inc Tax 2,717,668 12.75% 0.00% 0.0000%
+8 Total $ 21,321,166 160.00% 6.65% 5.26% 0.6553%
+Cost
+ITC split between Debt and Equitv**: Ratio Rate Ratio Ratio ITC Weighted ITC After Gross-up
+9 Common Equity 9,665,641 53% 10.3% 5.45% 71.2% 0.07% 0.0499% 0.067%
+0 Preferred Equity - 0% 0.07% 0.0000% 0.000%
+1 Long Term Debt 8,588,710 47% 4.68% 2.20% 28.8% 0.07% 0.0201% 0.020%
+2 ITC Cost Rate 18,254,350 100% 7.66% 0.0700% 0.087%
+Breakdown of Revenue Requirement Rate of Return between Debt and Equity:
+13 Total Equity Component (Lines 1 and 9 ) 6.327%
+14 Total Debt Component (Lines 2, 3,4 , and 11 )_ 1.930%
+15 Total Revenue Requirement Rate of Return_ 8.257%
+Notes:
+Effective Tax Rate: 25.345%
+Column:
+(1) Per Order No. PSC-2020-0165-PAA-EU, issued May 20, 2020, approving amended joint motion modifying WACC methodology
+(2) Column (1)/Total Column (1)
+(3) Per Order No. PSC-2024-0472-AS-EI, Final Order Approving 2024 Settlement Agreement
+Line 6 and Line 12, the cost rate of ITC's is determined under Treasury Regulation section 1,46-6(b)(3)(ii).
+(4) Column (2) x Column (3)
+(5) For equity components: Column (4) / (1-effective income tax rate/100)
+* For debt components: Column (4)
+** Line 6 is the pre-tax ITC components from Lines 9 and 11
+(6) Column (5)/12

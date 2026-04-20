@@ -52,8 +52,15 @@ class TariffSchedule(BaseModel):
     expiration_date: date | None = None
     psc_docket: str
 
-    # Base charge
+    # Base charge. Most Florida IOUs bill this as a flat monthly amount.
+    # TECO publishes a daily basic service charge (e.g. $0.45/day) that, for
+    # a 30-day month, equals the monthly figure. When ``base_charge_daily``
+    # is set, the calculator bills ``daily × billing_days`` if the caller
+    # provides ``billing_days``; otherwise it falls back to 30 × daily.
+    # ``base_charge_monthly`` is always the canonical 30-day equivalent so
+    # that cross-utility comparisons are consistent.
     base_charge_monthly: Decimal
+    base_charge_daily: Decimal | None = None
     minimum_bill: Decimal
 
     # Energy charges (¢/kWh)

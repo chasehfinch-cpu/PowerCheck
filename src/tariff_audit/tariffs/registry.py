@@ -73,6 +73,13 @@ def _ensure_loaded() -> None:
         return
     # Import for side effects: each module calls register_tariff() at import time.
     # Keep this list explicit so test failures point at a specific module.
+    # Duke, FPU, and municipal modules are intentionally empty skeletons —
+    # they import cleanly but register no schedules, so lookups raise a
+    # clear LookupError rather than returning wrong data.
+    import tariff_audit.tariffs.municipal  # noqa: F401  (doc-only)
+    from tariff_audit.tariffs.duke import rs1 as _duke_rs1  # noqa: F401
     from tariff_audit.tariffs.fpl import rs1 as _fpl_rs1  # noqa: F401
+    from tariff_audit.tariffs.fpu import rs as _fpu_rs  # noqa: F401
+    from tariff_audit.tariffs.teco import rs as _teco_rs  # noqa: F401
 
     _LOADED = True

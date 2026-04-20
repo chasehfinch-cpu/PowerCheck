@@ -115,6 +115,7 @@ def calculate_bill(
     *,
     demand_kw: Decimal | int | float | None = None,
     power_factor: Decimal | float | None = None,
+    billing_days: int | None = None,
 ) -> CalculatedBill:
     """Reconstruct the tariff-regulated portion of a bill.
 
@@ -141,6 +142,13 @@ def calculate_bill(
     kwh_d = _as_decimal(kwh)
     if kwh_d < 0:
         raise ValueError(f"kwh must be non-negative, got {kwh_d}")
+
+    # Resolve base charge. Prefer daily × billing_days when the tariff is
+    # published per-day; fall back to the canonical monthly figure.
+    if tariff.base_charge_daily is not None and billing_days is not None:
+        base_charge_value = _round_cents(tariff.base_charge_daily * Decimal(billing_days))
+    else:
+        base_charge_value = _round_cents(tariff.base_charge_monthly)
 
     # Clause charges apply to every metered kWh as flat ¢/kWh rates.
     conservation = _round_cents(kwh_d * tariff.conservation / _HUNDRED)
@@ -188,7 +196,7 @@ def calculate_bill(
             )
 
     subtotal = (
-        tariff.base_charge_monthly
+        base_charge_value
         + sum(energy_by_tier.values(), Decimal("0"))
         + sum(fuel_by_tier.values(), Decimal("0"))
         + conservation
@@ -216,7 +224,7 @@ def calculate_bill(
         kwh=kwh_d,
         demand_kw=_as_decimal(demand_kw) if demand_kw is not None else None,
         power_factor=_as_decimal(power_factor) if power_factor is not None else None,
-        base_charge=_round_cents(tariff.base_charge_monthly),
+        base_charge=base_charge_value,
         energy_charge_by_tier=energy_by_tier,
         fuel_charge_by_tier=fuel_by_tier,
         demand_charge=demand_charge,
