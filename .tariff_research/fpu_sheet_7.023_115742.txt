@@ -1,0 +1,34 @@
+Sheet No. 7.023
+F.P.S.C. Electric Tariff
+Original Volume No. II
+NON-FIRM ENERGY PROGRAM NFEP-EXP (EXPERIMENTAL) - CLOSED
+Availability
+Available within the territory served by the Company in Jackson, Calhoun, and Liberty Counties and
+on Amelia Island in Nassau County. This service is limited to Customers in the GSLD1 or Standby
+rate class. The Rate Schedule is closed to new Customers and shall expire within 90 days written notice
+by the Company to participating Customers and will expire in its entirety by September 1, 2025.
+Applicability
+Applicable to Customers which are self-generators with dispatchable generation and are eligible for
+Rate Schedule GSLD1 or Standby, or who have executed a Special Contract approved by the
+Commission. Eligible Customers would nominate, in accordance with the procedures outlined below,
+an amount of electric load they commit to purchase that is above and in addition to the Customer’s
+established baseline. Non-Firm (NF) Energy nominations must be made in 1,000 KW increments and
+is currently limited to a minimum of 1,000 kW and maximum of 15,000 kW. The Customer is not
+obligated to nominate NF Energy for any specific period but must nominate a minimum of 1,500 MWh
+per year.
+The default period for NF Energy nominations will be 7 days. Nominations for longer periods, e.g.
+monthly, will be made available when market conditions warrant. The same procedure for nominations
+and acceptance will apply to all periods. Customer may nominate NF Energy for on-peak hours, off-
+peak hours, or all hours. On-peak hours are Hour Ending (H.E.) 08:00 to H.E 23:00 weekdays and off-
+peak hours are H.E. 24:00 to HE 07:00 and all hours on weekends and established holidays. Times
+shown are Eastern Standard or Daylight Savings time. On-peak and off-peak hours are subject to
+change.
+Once the Company confirms the Customer’s nomination, the Customer is obligated to pay for all NF
+Energy nominated at the offered rate regardless of whether the Customer takes all NF Energy
+nominated for the month, unless recalled in accordance with NF Recall provisions.
+Monthly Rate
+The rates and all other terms and conditions of the Customer’s otherwise applicable rate schedule shall
+be applicable under this program.
+All NF Energy shall be charged at the hourly price, in $/MWh, as offered by the Company. Once
+nominated by the Customer and accepted by the Company, the Customer is responsible to pay the full
+NF Energy Charge for the nomination period regardless of whether the C

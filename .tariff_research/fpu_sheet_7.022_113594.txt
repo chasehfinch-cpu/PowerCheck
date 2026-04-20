@@ -1,0 +1,46 @@
+Sheet No. 7.022
+RATE ADJUSTMENT RIDER – NORTHEAST FLORIDA DIVISION
+Applicability
+Electric service under all rate schedules for the Northeast Florida Division which specify that rates are
+subject to adjustment in accordance with the provisions of the Company’s Rate Adjustment Rider.
+Total Purchased Power Cost Recovery Clause
+The total purchased power cost adjustment shall be applied to each kilowatt hour delivered and shall be
+computed in accordance with the formula prescribed by the Florida Public Service Commission. The
+total purchased power cost adjustment for the period January 1, 2026 through December 31, 2026 is as
+follows:
+Rate Class Rate Schedule Levelized Adjustment
+Residential (1st 1000 KWH’s) RS 8.820ȼ / KWH
+Residential (above 1000 KWH’s) RS 10.070ȼ / KWH
+General Service GS 9.206ȼ / KWH
+General Service –Demand GSD 8.861ȼ / KWH
+General Service –Large Demand GSLD 8.711ȼ / KWH
+Lighting Service LS 7.818ȼ / KWH
+General Service Large Demand 1 GSLD 1 Generation Demand $14.11 / KW*
+(Over 100,000 KW billed annually)
+General Service Large Demand 1 GSLD 1 Generation Demand $10.77 / KW*
+(Under 100,000 KW billed annually)
+Standby SB 0.000$ / KW
+*Estimated for informational purposes only,
+Monthly rate will be billed at actual cost.
+Energy Conservation Cost Recovery Clause
+Each base energy rate per KWH of the above rate schedules for the period January 1, 2026 through
+December 31, 2026 shall be increased by 0.321 ȼ / KWH of sales to recover conservation related
+expenditures by the Company. This adjustment is determined in accordance with the formula and
+procedures specified by the Florida Public Service Commission.
+The Energy Conservation Cost Recovery Clause will not apply to the GSLD-1 rate class.
+Tax Recovery
+There will be added to all bills rendered for electric service a proportionate share of all license fees and
+taxes imposed by any governmental authorities after January 1, 1945, to an extent sufficient to cover
+excess increased taxes or license fee.
+Issued by: Jeffrey Sylvester, Chief Operating Officer Effective: JAN 01 2026
+Florida Public Utilities
+
+=== page 61 ===
+Florida Public Utilities Company Original Sheet No. 7.023
+F.P.S.C. Electric Tariff
+Original Volume No. II
+NON-FIRM ENERGY PROGRAM NFEP-EXP (EXPERIMENTAL) - CLOSED
+Availability
+Available within the territory served by the Company in Jackson, Calhoun, and Liberty Counties and
+on Amelia Island in Nassau County. This service is limited to Customers in the GSLD1 or Standby
+rate class. The Rate Sc

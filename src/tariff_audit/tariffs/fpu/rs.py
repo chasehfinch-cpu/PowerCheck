@@ -1,47 +1,87 @@
-"""Florida Public Utilities Company (FPUC) Residential Service — PENDING DATA ENTRY.
+"""Florida Public Utilities Company (FPUC) Residential Service (RS) rate schedule.
 
-FPUC is the smallest of Florida's PSC-regulated investor-owned electric
-utilities (~30,000 electric customers in Marianna, Fernandina Beach, and
-Indiantown service areas). Its tariff schedule is simpler than the big
-three IOUs but must be verified before this module registers any rates.
+Source: ``fpuc.com/wp-content/uploads/FPU-Electric-Tariff_ADA-2.pdf``
+(extracted text retained at ``.tariff_research/fpu_electric_tariff.txt``).
 
-This module intentionally registers no tariff schedules. Lookups raise
-``LookupError`` until rates are entered from the authoritative PSC filing.
+**Service territory**: Two non-contiguous divisions:
 
-**Research status (as of 2026-04)**:
+- **Northwest Florida Division**: Jackson, Calhoun, and Liberty Counties
+  (Marianna area). Rate Adjustment Rider on Sheet No. 7.021.
+- **Northeast Florida Division**: Amelia Island in Nassau County
+  (Fernandina Beach). Rate Adjustment Rider on Sheet No. 7.022.
 
-- The FPU tariffs landing page (``fpuc.com/tariffs/``) lists seven
-  schedule PDFs labeled 08592–08599 under PSC Docket 20240099-EI. The
-  page is JavaScript-rendered; PDFs require a headless browser to
-  discover URLs reliably.
-- Annual ECCR filings are at
-  ``psc.state.fl.us/library/filings/2026/00557-2026/00557-2026.pdf`` and
-  can be pulled directly.
+Both divisions use **identical** residential rate structure for 2026 —
+they share the same Base Energy Charges and Purchased Power Cost Recovery
+factors. The only difference (GSLD-1 large-demand generation charges for
+commercial) does not affect residential customers.
 
-**PSC Docket references**:
+**2026 rate structure differs from other FL IOUs**:
 
-- **20240099-EI** — 2024 FPUC rate case (increase in rates and updated
-  schedules A–G).
-- **00557-2026** — 2026 annual electric cost recovery rates effective
-  January 2026 through December 2026.
+- FPU combines fuel, capacity, and environmental recovery into a single
+  **"Total Purchased Power Cost Recovery Clause"** (levelized adjustment).
+  Peer utilities separate these.
+- **Storm Protection Plan charge is absent** (FPU is not subject to the
+  same storm-hardening cost recovery as FPL/Duke/TECO).
+- Base charge is labeled **"Customer Facilities Charge"** at $24.40/month
+  — notably higher than peer utilities (FPL $10.52, TECO $13.50 equiv).
+- **Franchise fee is described** in the tariff as a percentage added
+  before taxes, variable by jurisdiction (see standards/jurisdictions).
 
-**To complete this module**:
+PSC Docket references:
 
-1. Download the A-labeled schedule PDF from ``fpuc.com/tariffs/`` (likely
-   the residential schedule). Tree structure:
-   - Schedule A: Residential (RS)
-   - Schedule B: Small General Service
-   - Schedule C: General Service Demand
-   - Schedule D–G: specialty / large service
-2. Extract text via ``pdfplumber``; retain at ``.tariff_research/
-   fpu_schedule_a_<year>.txt``.
-3. Populate one ``TariffSchedule`` per effective-date window.
-4. Register via ``register_tariff``.
-
-**Note**: FPU's service territories are NOT contiguous — verify rate
-class availability by ZIP code or county before audit. An FPU customer
-in Fernandina Beach (Nassau County) pays different rates than one in
-Marianna (Jackson County) for some rate classes.
+- **20240099-EI** — 2024 FPU rate case
+- **00557-2026** — 2026 annual electric cost recovery rates
 """
 
-# Intentionally empty — no schedules registered.
+from __future__ import annotations
+
+from datetime import date
+from decimal import Decimal
+
+from tariff_audit.tariffs.models import EnergyTier, FuelTier, TariffSchedule
+from tariff_audit.tariffs.registry import register_tariff
+
+# ---------------------------------------------------------------------------
+# FPU Residential Service — Effective January 1 2026
+# ---------------------------------------------------------------------------
+
+FPU_RS_2026 = TariffSchedule(
+    utility="FPU",
+    rate_schedule="RS",
+    effective_date=date(2026, 1, 1),
+    expiration_date=date(2026, 12, 31),
+    psc_docket="20240099-EI / 00557-2026",
+    base_charge_monthly=Decimal("24.40"),
+    minimum_bill=Decimal("24.40"),
+    energy_tiers=[
+        EnergyTier(max_kwh=1000, rate_cents_per_kwh=Decimal("2.867")),
+        EnergyTier(max_kwh=None, rate_cents_per_kwh=Decimal("4.695")),
+    ],
+    fuel_tiers=[
+        # FPU's "Total Purchased Power Cost Recovery Clause" is the
+        # functional equivalent of fuel + capacity + environmental combined.
+        FuelTier(max_kwh=1000, rate_cents_per_kwh=Decimal("8.820")),
+        FuelTier(max_kwh=None, rate_cents_per_kwh=Decimal("10.070")),
+    ],
+    conservation=Decimal("0.321"),
+    # FPU does not separate capacity / environmental / storm protection —
+    # those are rolled into Purchased Power above and the tariff does not
+    # list a Storm Protection Plan clause for this small IOU.
+    capacity=Decimal("0"),
+    environmental=Decimal("0"),
+    storm_protection=Decimal("0"),
+    storm_restoration_surcharge=Decimal("0"),
+    transition_credit=Decimal("0"),
+    source_url="https://fpuc.com/wp-content/uploads/FPU-Electric-Tariff_ADA-2.pdf",
+    notes=(
+        "Effective 2026 for both NW Florida (Jackson/Calhoun/Liberty) and "
+        "NE Florida (Amelia Island) divisions. Purchased Power Cost Recovery "
+        "bundles fuel + capacity + environmental cost recovery into a "
+        "single tiered ¢/kWh factor. Franchise fee is jurisdiction-dependent "
+        "and handled by standards.jurisdictions. Tariff effective date per "
+        "the Company of Jeffrey Sylvester, Chief Operating Officer."
+    ),
+)
+
+
+register_tariff(FPU_RS_2026)

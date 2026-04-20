@@ -1,0 +1,50 @@
+Sheet No. 7.021 & 7.022.
+Issued by: Jeffrey Sylvester, Chief Operating Officer Effective: March 20, 2026
+Florida Public Utilities
+
+=== page 47 ===
+Florida Public Utilities Company Original Sheet No. 7.009
+F.P.S.C. Electric Tariff
+Original Volume No. II
+RATE SCHEDULE GSLD
+GENERAL SERVICE-LARGE DEMAND
+Conservation Costs
+See Sheet Nos. 7.021 & 7.022.
+Franchise Fee Adjustment
+Customers taking service within franchise areas shall pay a franchise fee adjustment in the form of a
+percentage to be added to their bills prior to the application of any appropriate taxes. This percentage
+shall reflect the Customer’s pro rata share of the amount the Company is required to pay under the
+franchise agreement with the specific governmental body in which the Customer is located.
+Billing Demand
+The billing demand in any month shall be the greatest of the following:
+(d) The highest fifteen-minute average load for the current month, as registered by a demand meter
+or indicator.
+(e) The highest fifteen-minute average load for the current month after adjustment for power factor,
+in accordance with the Power Factor Clause of this schedule.
+(f) For those Customers electing to take service under this rate schedule in lieu of the otherwise
+applicable rate schedule the billing demand shall be as in either (a) or (b) above, but not less than
+400 KW.
+Terms of Service
+Not less than one year.
+Power Factor of Clause
+The Company reserves the right to measure power factor and if it is less than 90%, adjust the maximum
+demand for any month by multiplying the measured demand by 90% and dividing by the actual power
+factor.
+Transformer Ownership Discount
+If the customer elects to take service at the available primary voltage and furnish and maintain any
+transformers required, the monthly demand charge will be reduced by fifty five (55) cents per kilowatt.
+Such customers will be metered at primary voltage and in recognition of estimated average
+transformation losses of 1% the KW and KWH measured units shall be multiplied by a factor of 0.99
+for billing purposes.
+Terms and Conditions
+Service under this rate schedule is subject to the Company’s Rules and Regulations applicable to
+electric service.
+Issued by: Jeffrey Sylvester, Chief Operating Officer Effective: March 20, 2025
+Florida Public Utilities
+
+=== page 48 ===
+Florida Public Utilities Company Second Revised Sheet No. 7.010
+F.P.S.C. Electric Tariff Replaces First Revised Sheet No. 7.010
+Original Volume No. II
+RATE SCHEDULE GSLD 1
+GENERAL SERV

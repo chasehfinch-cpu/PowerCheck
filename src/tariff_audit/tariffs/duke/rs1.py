@@ -7,17 +7,22 @@ until every rate component is verified against the PSC-filed tariff.
 **Research status (as of 2026-04)**:
 
 - Duke Energy's rate schedule index
-  (``duke-energy.com/home/billing/rates/index-of-rate-schedules?jur=FL01``)
-  returns HTTP 200 with a JavaScript SPA shell; rate PDFs are fetched
-  client-side and are not accessible to a plain HTTP GET. A headless
-  browser (Playwright / Selenium) is the practical path to automate this.
-  Known-good URL patterns (``/-/media/pdfs/for-your-home/rates/electricfl/
-  rate-rs1.pdf``, variants) return 404 — the tree has been reorganized.
+  (``duke-energy.com/home/billing/rates/index-of-rate-schedules?jur=FL01``
+  and the un-parameterized variant) returns HTTP 200 with a JavaScript SPA
+  shell (Sitecore-powered, inspected; no hardcoded PDF URLs in the 917 KB
+  of rendered HTML). Rate PDFs are fetched client-side via a Sitecore
+  Content API. A headless browser (Playwright / Selenium) is the practical
+  path to automate retrieval.
+- Known-good URL patterns
+  (``/-/media/pdfs/for-your-home/rates/electricfl/*``) all return 404 —
+  the tree has been reorganized.
 - The Florida PSC tariff index (``psc.state.fl.us/electric-tariffs``) is
-  also a JavaScript SPA.
+  also a JavaScript SPA and cannot be scraped via plain HTTP GET.
 - Individual PSC filings at
   ``floridapsc.com/pscfiles/library/filings/YYYY/NNNNN-YYYY/NNNNN-YYYY.pdf``
-  ARE directly downloadable and extractable via ``pdfplumber``.
+  ARE directly downloadable and extractable via ``pdfplumber`` once the
+  docket / filing number is known. This is the recommended Phase 2 path:
+  query Docket 20240160-EI's exhibit list for the current tariff PDF.
 
 **Partial verified data**:
 

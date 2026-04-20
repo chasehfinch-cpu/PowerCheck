@@ -9,6 +9,7 @@ produce misleading forensic reports.
 from __future__ import annotations
 
 from datetime import date
+from decimal import Decimal
 
 import pytest
 
@@ -20,9 +21,10 @@ def test_duke_rs1_lookup_raises():
         get_tariff("DUKE", "RS-1", date(2026, 6, 15))
 
 
-def test_fpu_rs_lookup_raises():
-    with pytest.raises(LookupError, match="No tariff registered"):
-        get_tariff("FPU", "RS", date(2026, 6, 15))
+def test_fpu_rs_lookup_now_resolves_after_2026_tariff_entry():
+    """FPU RS is verified from the consolidated electric tariff — lookup succeeds."""
+    t = get_tariff("FPU", "RS", date(2026, 6, 15))
+    assert t.base_charge_monthly == Decimal("24.40")
 
 
 def test_municipal_utilities_not_registered():
@@ -32,10 +34,10 @@ def test_municipal_utilities_not_registered():
             get_tariff(util, "RS", date(2026, 6, 15))
 
 
-def test_registered_utilities_include_fpl_and_teco():
+def test_registered_utilities_include_fpl_teco_and_fpu():
     utils = registered_utilities()
     assert "FPL" in utils
     assert "TECO" in utils
-    # Duke and FPU intentionally NOT in the registered list until data is entered
+    assert "FPU" in utils
+    # Duke intentionally NOT registered until rates verified.
     assert "DUKE" not in utils
-    assert "FPU" not in utils
