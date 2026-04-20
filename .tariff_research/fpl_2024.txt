@@ -1,0 +1,38 @@
+--- page 1 ---
+Residential Rates and Clauses
+Effective January 2024*
+Base Charge/ < 1,000 kWh/ > 1,000 kWh/ Conservation Capacity Environmental Storm Protection < 1,000 kWh / > 1,000 kWh / 2022 Transition Credit
+Month Energy Charge Energy Charge (¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh) Fuel Charge Fuel Charge Consolidated (¢/kWh)
+(¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh) Interim Storm
+Restoration
+RATES AND CHARGES Recovery (¢/kWh)
+Residential Service (RS-1) $9.48 7.063 8.055 0.124 0.170 0.332 0.557 3.462 4.462 0.665 -0.119
+Residential TOU Rider (RTR-1) $9.48 12.697** -5.552** 0.124 0.170 0.332 0.557 0.400** -0.170** 0.665 -0.119
+**E xcept for base charges, all rates and charges under Rate Schedule RS-1 shall apply to RTR-1. RTR-1 Base Energy and Fuel Charges and Credits applicable to on- and off-peak usage are in addition to the RS-1 charges
+Note: Residential customers whose monthly base electric service costs fall below $25 are subject to a minimum $25 base bill.
+Monthly Program Monthly Off-Peak On-Peak Energy Off-Peak Energy Charge
+Charge Energy Charge Charge (¢/kWh) (¢/kWh)
+RS-1 EV Full Installation $25.57 $12.81 23.71 N/A
+RS-1 EV Equipment only Installation $18.41 $12.81 23.71 N/A
+FPL-Owned Units Customer-Owned Units
+OUTDOOR LIGHTING (Fixture, Maintenance, and Base (Relamping and Base LED LIGHTING (LT-1)1
+Non-Fuel Energy) Non-Fuel Energy)
+Sodium Vapor 6,300 lu 70 watts $9.12 $3.09 Conversion Fee $2.08
+Sodium Vapor 9,500 lu 100 watts $9.68 $3.52 Maintenance per Fixture (Company-Owned LED Fixture and Pole) $1.45
+Sodium Vapor 12,000 lu 150 watts $11.42 $5.09 Maintenance per Fixture (Company Fixture on Customer Pole) $1.16
+Sodium Vapor 16,000 lu 150 watts $10.61 $4.23 Standard Wood pole $5.94
+Sodium Vapor 22,000 lu 200 watts $15.09 $5.79 Standard Concrete pole $8.14
+Sodium Vapor 50,000 lu 400 watts $18.47 $8.61 Standard Fiberglass pole $9.61
+Mercury Vapor 6,000 lu 140 watts $8.69 $4.54 Decorative Concrete pole $17.46
+Mercury Vapor 8,600 lu 175 watts $9.27 $4.63 Facilities Charge 1.28%
+Mercury Vapor 21,500 lu 400 watts $15.94 $8.06 Underground Conductors (¢ per foot) 4.865
+Non-Fuel Energy (¢ per kWh) 3.571 Base Non-Fuel Energy (¢ per kWh) 3.410
+Other Charges
+Wood Pole $12.92
+Concrete/Steel Pole $17.46
+Fiberglass Pole $20.51
+Underground conductors excluding Trenching ($ per foot) $0.099
+Down-guy, Anchor and Protector $11.75
+1 Catalog of available fixtures and the assigned billing tier for each can be viewed at www.FPL.com/partner/builders/lighting.html.
+*Rates as approved by the Florida Public Service Commission in Docket Nos. 20210015-EI, 20220165-EI, 20230017-EI, 20230001-EI, 20230002-EI, 20230007-EI and 20230010-EI.
+119208

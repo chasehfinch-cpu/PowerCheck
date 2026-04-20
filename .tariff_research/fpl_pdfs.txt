@@ -1,0 +1,186 @@
+=== res-eff-jan-2026.pdf ===
+--- page 1 ---
+Residential Rates and Clauses
+Effective January 2026*
+Base Charge/ ≤ 1,000 kWh/ > 1,000 kWh/ Conservation Capacity Environmental Storm Protection ≤1,000 kWh / > 1,000 kWh / Transition Credit
+Month Energy Charge Energy Charge (¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh) Fuel Charge Fuel Charge (¢/kWh)
+(¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh)
+RATES AND CHARGES
+Residential Service (RS-1) $10.52 7.865 8.865 0.148 0.052 0.345 0.995 2.893 3.893 -0.040
+Residential TOU Rider (RTR-1) $10.52 14.410** -6.157** 0.148 0.052 0.345 0.995 0.226** -0.098** -0.040
+** Except for base charges, all rates and charges under Rate Schedule RS-1 shall apply to RTR-1. RTR-1 Base Energy and Fuel Charges and Credits applicable to on- and off-peak usage are in addition to the RS-1 charges
+Note: Residential customers whose monthly base electric service costs fall below $30 are subject to a minimum $30 base bill.
+Monthly Program Monthly Off-Peak On-Peak Energy
+Charge Energy Charge Charge
+(¢/kWh)
+RS-1 EV Full Installation $25.57 $19.81 27.067
+RS-1 EV Equipment only Installation $18.41 $19.81 27.067
+Monthly Program On-Peak Energy Off-Peak Energy Conservation Capacity Charge Environmental Storm Protection On-Peak Fuel Off-Peak Fuel Transition Credit
+Charge Charge Charge Charge (¢/kWh) Charge Charge Charge (¢/kWh) Charge (¢/kWh) (¢/kWh)
+(¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh)
+RS-2 EV Full Installation $36.00 22.583 2.016 0.148 0.052 0.345 0.995 3.428 3.104 -0.040
+RS-2 EV Equipment only Installation $27.00 22.583 2.016 0.148 0.052 0.345 0.995 3.428 3.104 -0.040
+FPL-Owned Units Customer-Owned Units
+OUTDOOR LIGHTING (Fixture, Maintenance, and Base (Relamping and Base LED LIGHTING (LT-1)1
+Non-Fuel Energy) Non-Fuel Energy)
+Sodium Vapor 6,300 lu 70 watts $10.35 $3.62 Conversion Fee $2.11
+Sodium Vapor 9,500 lu 100 watts $10.95 $4.08 Maintenance per Fixture (Company-Owned LED Fixture and Pole) $1.65
+Sodium Vapor 12,000 lu 150 watts $12.92 $5.16 Maintenance per Fixture (Company Fixture on Customer Pole) $1.33
+Sodium Vapor 16,000 lu 150 watts $11.99 $4.87 Standard Wood pole $6.67
+Sodium Vapor 22,000 lu 200 watts $17.02 $6.67 Standard Concrete pole $9.13
+Sodium Vapor 50,000 lu 400 watts $20.71 $9.71 Standard Fiberglass pole $10.78
+Mercury Vapor 6,000 lu 140 watts $9.78 $4.63 Decorative Concrete pole $19.60
+Mercury Vapor 8,600 lu 175 watts $10.40 $5.20 Facilities Charge 1.25%
+Mercury Vapor 21,500 lu 400 watts $17.85 $9.33 Underground Conductors (¢ per foot) 5.462
+Non-Fuel Energy (¢ per kWh) 3.863 Base Non-Fuel Energy (¢ per kWh) 3.863
+Other Charges
+Wood Pole $14.51
+Concrete/Steel Pole $19.60
+Fiberglass Pole $23.03
+Underground conductors excluding Trenching ($ per foot) $0.112
+Down-guy, Anchor and Protector $13.19
+1 Catalog of available fixtures and the assigned billing tier for each can be viewed at www.FPL.com/partner/builders/lighting.html.
+*Rates approved by the Florida Public Service Commission in Docket Nos. 20250011-EI, 20210015-EI, 20250001-EI, 20250002-EG, 20250007-EI, and 20250010-EI.
+If there is a discrepancy between the rates shown on this insert and the effective, PSC-approved tariff, the rates in the tariff prevail in all instances.
+127549
+=== jan-2026-res-eff-rates-rules-regulations.pdf ===
+--- page 1 ---
+Residential Rates and Clauses
+Effective January 2026*
+Base Charge/ ≤1,000 kWh/ > 1,000 kWh/ Conservation Capacity Environmental Storm Protection ≤ 1,000 kWh / > 1,000 kWh / Transition Rider
+Month Energy Charge Energy Charge (¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh) Fuel Charge Fuel Charge (¢/kWh)
+RATES AND CHARGES
+(¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh)
+Residential Service (RS-1) $10.52 7.865 8.865 0.148 0.052 0.345 0.995 2.893 3.893 0.421
+Residential TOU Rider* (RTR-1) $10.52 14.410** -6.157** 0.148 0.052 0.345 0.995 0.226** -0.098** 0.421
+**Except for base charges, all rates and charges under Rate Schedule RS-1 shall apply to RTR-1. RTR-1 Base Energy and Fuel Charges and Credits applicable to on- and off-peak usage are in addition to the RS-1 charges.
+Note: Residential customers whose monthly base electric service costs fall below $30 are subject to a minimum $30 base bill.
+Monthly Monthly Off- On-Peak Energy Monthly On-Peak Off-Peak Conser- Capacity Environ- Storm On-Peak Off-Peak Transition
+Program Charge Peak Energy Charge Program Energy Energy vation Charge mental Protection Fuel Fuel Credit
+Charge (¢/kWh) Charge Charge Charge Charge (¢/kWh) Charge Charge Charge Charge (¢/kWh)
+(¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh) (¢/kWh)
+RS-1 EV Full Installation $25.57 $19.81 27.067 RS-2 EV Full Installation $36.00 22.583 2.016 0.148 0.052 0.345 0.995 3.428 3.104 0.421
+R In S st - a 1 ll a E t V io n Equipment only $18.41 $19.81 27.067 R In S st - a 2 ll a E t V io n Equipment only $27.00 22.583 2.016 0.148 0.052 0.345 0.995 3.428 3.104 0.421
+LIGHTING RATES
+COMPANY-OWNED UNITS (FIXTURE, OS I/II OS I/II OS I/II
+MAINTENANCE, AND BASE NON-FUEL ENERGY) High Pressure Sodium Metal Halide LED
+Vapor
+Open Bottom 5,400 lu 70 watts $7.59 Acorn 12,000 lu 175 watts $28.62 Acorn 3,776 lu 75 watts $38.44
+Open Bottom 8,800 lu 100 watts $7.27 Colonial 12,000 lu 175 watts $11.78 Street Light 4,440 lu 72 watts $26.68
+Open Bottom with Shield 8,800 lu 100 watts $8.92 English Coach 12,000 lu 175 watts $31.25 Acorn A5 2,820 lu 56 watts $43.77
+Acorn 8,800 lu 100 watts $25.74 Destin Single 12,000 lu 175 watts $49.72 Cobrahead S2 5,100 lu 73 watts $13.83
+Colonial 8,800 lu 100 watts $8.83 Destin Double 24,000 lu 350 watts $97.68 Cobrahead S3 10,200 lu 135 watts $17.20
+English Coach 8,800 lu 100 watts $27.81 Small Flood 32,000 lu 400 watts $17.99 ATB071 S2/S3 6,320 lu 71 watts $17.23
+Destin Single 8,800 lu 100 watts $46.01 Small Parking Lot 32,000 lu 400 watts $26.90 ATB1 105 S3 9,200 lu 105 watts $23.52
+Destin Double 17,600 lu 200 watts $91.03 Large Flood 100,000 lu 1,000 watts $33.28 ATB2 280 S4 23,240 lu 280 watts $28.98
+Cobrahead 5,400 lu 70 watts $9.81 Large Parking Lot 100,000 lu 1,000 watts $50.39 E132 A3 7,200 lu 132 watts $51.24
+Cobrahead 8,800 lu 100 watts $8.92 E157 SAW 9,600 lu 157 watts $35.75
+OS I/II
+Cobrahead 20,000 lu 200 watts $12.91 Metal Halide WP9 A2/S2 7,377 lu 140 watts $79.42
+Pulse Start
+Cobrahead 25,000 lu 250 watts $13.43 Destin Double 15,228 lu 210 watts $134.58
+Acorn 13,000 lu 150 watts $30.62
+Cobrahead 46,000 lu 400 watts $16.35 ATB0 108 S2/S3 9,336 lu 108 watts $16.24
+Colonial 13,000 lu 150 watts $12.41
+Cutoff Cobrahead 8,800 lu 100 watts $9.60 Colonial 3,640 lu 45 watts $17.68
+English Coach 13,000 lu 150 watts $31.22
+Cutoff Cobrahead 25,000 lu 250 watts $13.53 LG Colonial 5,032 lu 72 watts $20.39
+Destin Single 13,000 lu 150 watts $61.52
+Cutoff Cobrahead 46,000 lu 400 watts $16.36 Security Lt 4,204 lu 43 watts $9.97
+Destin Double 26,000 lu 300 watts $123.85
+Bracket Mount CIS 25,000 lu 250 watts $24.61 Roadway 1 5,510 lu 62 watts $12.39
+Small Flood 33,000 lu 350 watts $18.94
+Tenon Top CIS 25,000 lu 250 watts $24.62 Galleon 6s q 32,327 lu 315 watts $46.28
+Shoebox 33,000 lu 350 watts $21.27
+Bracket Mount CIS 46,000 lu 400 watts $28.28 Galleon 7s q 38,230 lu 370 watts $51.69
+Flood 68,000 lu 750 watts $28.08
+Small ORL 20,000 lu 200 watts $24.35 Galleon 10s q 53,499 lu 528 watts $70.93
+Small ORL 25,000 lu 250 watts $24.37 Flood 421 W 36,000 lu 421 watts $39.90
+OS I/II
+Small ORL 46,000 lu 400 watts $27.74 Mercury Vapor Wildlife Cert 5,355 lu 106 watts $34.57
+Large ORL 20,000 lu 200 watts $37.05 Open Bottom 7,000 lu 175 watts $7.33 Evolve Area 8,300 lu 72 watts $27.98
+Large ORL 46,000 lu 400 watts $44.47 Cobrahead 3,200 lu 100 watts $9.47 ATB0 70 8,022 lu 72 watts $16.20
+Shoebox 46,000 lu 400 watts $24.39 Cobrahead 7,000 lu 175 watts $9.87 ATB0 100 11,619 lu 104 watts $17.62
+Directional 16,000 lu 150 watts $13.19 Cobrahead 9,400 lu 250 watts $13.06 ATB2 270 30,979 lu 274 watts $32.06
+Directional 20,000 lu 200 watts $17.96 Cobrahead 17,000 lu 400 watts $15.96 Roadway 2 9,514 lu 95 watts $13.78
+Directional 46,000 lu 400 watts $17.65 Cobrahead 48,000 lu 1,000 watts $33.78 Roadway 3 15,311 lu 149 watts $18.75
+Large Flood 125,000 lu 1,000 watts $32.23 Directional 17,000 lu 400 watts $20.97 Roadway 4 28,557 lu 285 watts $26.45
+*Rates approved by the Florida Public Service Commission in Docket Nos. 20250011-EI, 20210015-EI, 20250001-EI, 20250002-EG, 20250007-EI, and 20250010-EI.
+--- page 2 ---
+OS I/II CUSTOMER-OWNED UNITS Other Charges
+COMPANY-OWNED UNITS (CONT.) LED Cont.
+13 ft. Decorative Concrete Pole $23.74
+Colonial Large 5,963 lu 72 watts $18.71
+13 ft. Decorative High Gloss Concrete Pole $20.85
+Colonial Small 4,339 lu 45 watts $17.58
+16 ft. Decorative Base Aluminum Pole with 6" Tenon $16.54
+Acorn A 8,704 lu 81 watts $36.94 17 ft. Decorative Base Aluminum Pole $24.15
+Destin I 7,026 lu 99 watts $60.60 18 ft. (14 ft. Mounting Height) Aluminum Decorative York Pole $21.96
+Flood Large 37,400 lu 297 watts $35.71 20 ft. (16 ft. Mounting Height) Aluminum Decorative Grand Pole $17.95
+Flood Medium 28,700 lu 218 watts $30.20 20 ft. Fiberglass Pole $8.56
+Flood Small 18,600 lu 150 watts $25.55 20 ft. (16 ft. mounting Height) Aluminum, Round, Tapered Pole (Spun Tenon) $7.53
+ATB2 210 23,588 lu 208 watts $27.46 20 ft. (16 ft. mounting Height) Aluminum, Round, Tapered Pole (Welded Tenon) $25.60
+25 ft. (20 ft. Mounting Height) Aluminum, Round, Tapered Pole $26.76
+Destin 8,575 lu 77 watts $46.67
+30 ft. Wood Pole $5.55
+Destin Wildlife 1,958 lu 56 watts $55.28
+30 ft. Concrete Pole $9.13
+AEL Roadway ATBS 3K 8,212 lu 76 watts $10.41
+30 ft. Fiberglass Pole with Concrete, Anchor-Based Pedestal $54.90
+AEL Roadway ATBS 4K 8,653 lu 76 watts $10.41
+30 ft. (25 ft. Mounting Height) Aluminum, Round, Tapered Pole $29.68
+Cree RSW Amber – XL 5,300 lu 144 watts $25.23
+30 ft. Aluminum Pole with Concrete Adjustable Base $27.12
+Cree RSW Amber – Large 3,715 lu 92 watts $18.77
+35 ft. Concrete Pole $9.13
+EPTC 7,300 lu 65 watts $27.12
+35 ft. Concrete Pole (Teton Top) $9.13
+Cont American Elect 3K 3,358 lu 38 watts $12.46
+35 ft. Wood Pole $6.67
+Cont American Elect 4K 3,615 lu 38 watts $12.46 35 ft. (30 ft. mounting Height) Aluminum, Round, Tapered Pole $33.27
+Acuity AEL ATB2 Gray 16,593 lu 133 watts $16.07 40 ft. Wood Pole $6.67
+Holophane Granville (Black/Black) 3K 6,586 lu 51 watts $27.41 45 ft. Concrete Pole (Teton Top) $9.13
+Cree XSPM 12,000 lu 95 watts $14.12 22 ft. Aluminum Pole $19.13
+25 ft. Aluminum Pole $19.89
+30 ft. Aluminum, Anchor-Based Pole with 8' Arm $49.78
+CUSTOMER-OWNED UNITS
+OS I/II
+(RELAMPING AND BASE NON-FUEL ENERGY) 30 ft. Aluminum, Anchor-Based Pole with 10' Arm $52.14
+Sodium Vapor 8,800 lu 100 watts $2.50 30 ft. Aluminum, Anchor-Based Pole with 12' Arm $48.28
+Sodium Vapor 16,000 lu 150 watts $3.58 35 ft. Aluminum, Anchor-Based Pole with 8' Arm $54.80
+Sodium Vapor 20,000 lu 200 watts $4.02
+35 ft. Aluminum, Anchor-Based Pole with 10' Arm $54.14
+Sodium Vapor 25,000 lu 250 watts $4.81
+35 ft. Aluminum, Anchor-Based Pole with 12' Arm $55.41
+Sodium Vapor 46,000 lu 400 watts $7.27
+Sodium Vapor 125,000 lu 1,000 watts $15.88 40 ft. Aluminum, Anchor-Based Pole with 8' Arm $56.72
+Metal Halide 32,000 lu 400 watts $7.41 40 ft. Aluminum, Anchor-Based Pole with 10' Arm $59.89
+Metal Halide 100,000 lu 1,000 watts $18.83
+40 ft. Aluminum, Anchor-Based Pole with 12' Arm $61.86
+16 ft. Aluminum, Decorative Pole $20.85
+Base Non-Fuel Energy (¢ per kWh) 3.863
+16 ft. Aluminum, Decorative Pole with Banner Arms $25.75
+40 ft. Concrete Pole $9.13
+LED LIGHTING (LT-1)1
+45 ft. Wood Pole $6.67
+Conversion Fee $2.11 50 ft. Wood Pole $6.67
+Maintenance per Fixture (Company-Owned LED Fixture and Pole) $1.65
+18 ft. Aluminum, Round, Tapered Pole $9.84
+Maintenance per Fixture (Company Fixture on Customer Pole) $1.33
+14.5 ft. Concrete, Round, Tapered Pole $23.11
+Standard Wood pole $6.67
+Standard Concrete pole $9.13 Single Arm Shoebox/Small Parking Lot Fixture $3.22
+Standard Fiberglass pole $10.78
+Double Arm Shoebox/Small Parking Lot Fixture $3.56
+Decorative Concrete pole $19.60
+Triple Arm Shoebox/Small Parking Lot Fixture $4.98
+Facilities Charge 1.25%
+Underground Conductors (¢ per foot) 5.462 Quadruple Arm Shoebox/Small Parking Lot Fixture $6.30
+Tenon Top Adapter for 100,000 Lumen Large Parking Lot fixture $5.92
+Base Non-Fuel Energy (¢ per kWh) 3.863 Optional 100 amp Relay $33.16
+25 kVA transformer (non-coastal) $47.36
+25 kVA transformer (coastal) $67.53
+Additional Facilities 1.25%
+1 Catalog of available fixtures and the assigned billing tier for each can be viewed at www.FPL.com/partner/builders/lighting.html.
+*Rates approved by the Florida Public Service Commission in Docket Nos. 20250011-EI, 20210015-EI, 20250001-EI, 20250002-EG, 20250007-EI, and 20250010-EI.
+127551

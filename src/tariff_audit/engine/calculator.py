@@ -100,7 +100,9 @@ class CalculatedBill(BaseModel):
     capacity: Decimal
     environmental: Decimal
     storm_protection: Decimal
+    storm_restoration_surcharge: Decimal
     transition_credit: Decimal
+    additional_riders: dict[str, Decimal]
     power_factor_adjustment: Decimal | None = None
 
     subtotal_tariff: Decimal
@@ -145,7 +147,14 @@ def calculate_bill(
     capacity = _round_cents(kwh_d * tariff.capacity / _HUNDRED)
     environmental = _round_cents(kwh_d * tariff.environmental / _HUNDRED)
     storm_protection = _round_cents(kwh_d * tariff.storm_protection / _HUNDRED)
+    storm_restoration_surcharge = _round_cents(
+        kwh_d * tariff.storm_restoration_surcharge / _HUNDRED
+    )
     transition_credit = _round_cents(kwh_d * tariff.transition_credit / _HUNDRED)
+    additional_riders = {
+        name: _round_cents(kwh_d * rate / _HUNDRED)
+        for name, rate in tariff.additional_riders.items()
+    }
 
     energy_by_tier = _apply_tiers(kwh_d, tariff.energy_tiers)
     fuel_by_tier = _apply_tiers(kwh_d, tariff.fuel_tiers)
@@ -186,7 +195,9 @@ def calculate_bill(
         + capacity
         + environmental
         + storm_protection
+        + storm_restoration_surcharge
         + transition_credit
+        + sum(additional_riders.values(), Decimal("0"))
     )
     if demand_charge is not None:
         subtotal += demand_charge
@@ -214,7 +225,9 @@ def calculate_bill(
         capacity=capacity,
         environmental=environmental,
         storm_protection=storm_protection,
+        storm_restoration_surcharge=storm_restoration_surcharge,
         transition_credit=transition_credit,
+        additional_riders=additional_riders,
         power_factor_adjustment=power_factor_adjustment,
         subtotal_tariff=subtotal,
         minimum_bill_applied=minimum_bill_applied,

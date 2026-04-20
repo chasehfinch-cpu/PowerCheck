@@ -71,7 +71,18 @@ class TariffSchedule(BaseModel):
     capacity: Decimal = Decimal("0")
     environmental: Decimal = Decimal("0")
     storm_protection: Decimal = Decimal("0")
+    # Transient / interim PSC-approved cost-recovery surcharge for storm
+    # restoration costs from specific events (distinct from the ongoing
+    # Storm Protection Plan charge above). Zero when no surcharge is active.
+    storm_restoration_surcharge: Decimal = Decimal("0")
+    # Transition rider: positive value = charge (former Gulf Power territory),
+    # negative value = credit (peninsular FPL territory). Signed so the
+    # calculator can apply it uniformly.
     transition_credit: Decimal = Decimal("0")
+    # Escape hatch for rare additional per-kWh riders not covered by the
+    # named fields above (e.g. one-off PSC-approved surcharges). Values are
+    # ¢/kWh; applied to every metered kWh like other flat clauses.
+    additional_riders: dict[str, Decimal] = Field(default_factory=dict)
 
     # Power factor adjustment — demand schedules
     power_factor_base: Decimal | None = None
