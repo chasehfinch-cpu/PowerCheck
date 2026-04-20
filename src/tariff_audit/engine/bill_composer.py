@@ -22,6 +22,11 @@ from datetime import date, timedelta
 from decimal import ROUND_HALF_UP, Decimal
 
 from tariff_audit.engine.calculator import CalculatedBill, calculate_bill
+from tariff_audit.engine.line_items import (
+    NonTariffLineItem,
+    NonTariffSummary,
+    partition_by_tax_treatment,
+)
 from tariff_audit.standards.taxes import TaxApplication, apply_florida_taxes
 from tariff_audit.tariffs.registry import get_tariff
 
@@ -64,10 +69,20 @@ class ExpectedBill:
     segments: tuple[PeriodSegment, ...]
     tariff_subtotal: Decimal
 
-    # Tax layer
+    # Non-tariff items applied BEFORE taxes (e.g. load management credits
+    # that some utilities apply to the energy subtotal).
+    pre_tax_non_tariff_items: tuple[NonTariffLineItem, ...]
+    pre_tax_subtotal: Decimal  # tariff_subtotal + sum(pre_tax_items)
+
+    # Tax layer — computed against ``pre_tax_subtotal``.
     taxes: TaxApplication
 
-    # Final bottom line
+    # Non-tariff items applied AFTER taxes (late fees, prior balance,
+    # payments received, reconnection fees, deposits, etc.).
+    post_tax_non_tariff_items: tuple[NonTariffLineItem, ...]
+
+    # Final bottom line = pre_tax_subtotal + taxes (less pre-tax itself if
+    # double-counted) + post-tax items. See logic in ``compose_expected_bill``.
     total_due: Decimal
 
 
@@ -84,6 +99,7 @@ def compose_expected_bill(
     municipal_utility_tax_rate: Decimal = Decimal("0"),
     franchise_fee_rate: Decimal = Decimal("0"),
     include_psc_regulatory_fee: bool = False,
+    non_tariff_items: list[NonTariffLineItem] | None = None,
 ) -> ExpectedBill:
     """Reconstruct the complete expected bill.
 
@@ -183,13 +199,23 @@ def compose_expected_bill(
             tariff_subtotal += seg_contrib
         tariff_subtotal = _round_cents(tariff_subtotal)
 
+    # Partition any non-tariff items into pre-tax (affect tax base) and
+    # post-tax (appear on bill after taxes are computed).
+    nt_summary: NonTariffSummary = partition_by_tax_treatment(non_tariff_items or [])
+
+    pre_tax_subtotal = _round_cents(tariff_subtotal + nt_summary.pre_tax_total)
+
     taxes = apply_florida_taxes(
-        tariff_subtotal,
+        pre_tax_subtotal,
         is_residential=is_residential,
         municipal_utility_tax_rate=municipal_utility_tax_rate,
         franchise_fee_rate=franchise_fee_rate,
         include_psc_regulatory_fee=include_psc_regulatory_fee,
     )
+
+    # Bottom line: taxes.total already includes pre_tax_subtotal + all taxes.
+    # Add post-tax items (positive = owed, negative = credit).
+    total_due = _round_cents(taxes.total + nt_summary.post_tax_total)
 
     return ExpectedBill(
         utility=utility,
@@ -201,6 +227,9 @@ def compose_expected_bill(
         is_residential=is_residential,
         segments=tuple(segments),
         tariff_subtotal=tariff_subtotal,
+        pre_tax_non_tariff_items=nt_summary.pre_tax_items,
+        pre_tax_subtotal=pre_tax_subtotal,
         taxes=taxes,
-        total_due=taxes.total,
+        post_tax_non_tariff_items=nt_summary.post_tax_items,
+        total_due=total_due,
     )

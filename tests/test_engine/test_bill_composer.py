@@ -133,3 +133,112 @@ def test_invalid_date_range_rejected():
             total_kwh=1000,
             is_residential=True,
         )
+
+
+# ---------------------------------------------------------------------------
+# Non-tariff line items integration
+# ---------------------------------------------------------------------------
+
+
+def test_composer_with_late_fee_adds_post_tax():
+    """A $100 prior balance unpaid → FPL late fee $5 added AFTER taxes."""
+    from tariff_audit.engine.line_items import (
+        compute_late_payment_charge,
+        prior_balance,
+    )
+
+    bill = compose_expected_bill(
+        "FPL",
+        "RS-1",
+        billing_period_start=date(2026, 1, 1),
+        billing_period_end=date(2026, 1, 30),
+        total_kwh=1000,
+        is_residential=True,
+        non_tariff_items=[
+            prior_balance(Decimal("100.00")),
+            compute_late_payment_charge("FPL", Decimal("100.00")),
+        ],
+    )
+
+    # Tariff + GRT unchanged
+    assert bill.tariff_subtotal == Decimal("133.10")
+    # taxes.total = $136.51; + prior balance $100 + late fee $5 = $241.51
+    assert bill.total_due == Decimal("241.51")
+    assert len(bill.post_tax_non_tariff_items) == 2
+
+
+def test_composer_with_load_management_credit_reduces_tax_base():
+    """FPL On-Call $7.50 credit, applied pre-tax, reduces GRT."""
+    from tariff_audit.engine.line_items import load_management_credit
+
+    lm = load_management_credit("FPL", Decimal("7.50"), "On-Call")
+    # Force it pre-tax for this test
+    lm = lm.__class__(
+        name=lm.name,
+        category=lm.category,
+        amount=lm.amount,
+        description=lm.description,
+        fac_citation=lm.fac_citation,
+        statute_citation=lm.statute_citation,
+        pre_tax=True,
+    )
+
+    bill = compose_expected_bill(
+        "FPL",
+        "RS-1",
+        billing_period_start=date(2026, 1, 1),
+        billing_period_end=date(2026, 1, 30),
+        total_kwh=1000,
+        is_residential=True,
+        non_tariff_items=[lm],
+    )
+    # pre_tax_subtotal = 133.10 - 7.50 = 125.60
+    assert bill.pre_tax_subtotal == Decimal("125.60")
+    # GRT on 125.60 = $3.22; total = 128.82
+    assert bill.total_due == Decimal("128.82")
+
+
+def test_composer_payment_received_reduces_total_due():
+    from tariff_audit.engine.line_items import payment_received, prior_balance
+
+    bill = compose_expected_bill(
+        "FPL",
+        "RS-1",
+        billing_period_start=date(2026, 1, 1),
+        billing_period_end=date(2026, 1, 30),
+        total_kwh=1000,
+        is_residential=True,
+        non_tariff_items=[
+            prior_balance(Decimal("50.00")),
+            payment_received(Decimal("50.00")),
+        ],
+    )
+    # Net effect of +50 and -50 = 0; bill equals pure tariff + tax
+    assert bill.total_due == Decimal("136.51")
+
+
+def test_composer_net_metering_reduces_billable_kwh():
+    """A customer with solar exports 800 kWh against 1,000 kWh consumption
+    bills the tariff on NET 200 kWh — not the full 1,000."""
+    from tariff_audit.engine.line_items import apply_net_metering
+
+    nm = apply_net_metering(
+        metered_consumption_kwh=1000,
+        metered_generation_kwh=800,
+    )
+    assert nm.billable_kwh == Decimal("200")
+
+    # Compose using the net kWh
+    bill = compose_expected_bill(
+        "FPL",
+        "RS-1",
+        billing_period_start=date(2026, 1, 1),
+        billing_period_end=date(2026, 1, 30),
+        total_kwh=nm.billable_kwh,
+        is_residential=True,
+    )
+    # 200 kWh bills << 1,000 kWh; subtotal should be well under $50 before
+    # minimum-bill enforcement kicks in to raise to $30.
+    assert bill.tariff_subtotal < Decimal("50")
+    # The FPL minimum bill of $30 does NOT apply here because 200 kWh is
+    # enough to exceed the $30 floor when clauses are added.
