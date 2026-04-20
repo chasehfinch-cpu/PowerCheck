@@ -1,48 +1,58 @@
 """Duke Energy Florida Residential Service (RS-1) — PENDING DATA ENTRY.
 
 This module intentionally registers no tariff schedules. Attempting to look
-up a Duke Energy FL RS-1 rate will raise ``LookupError`` — which is the
-correct behavior until every rate component is verified against the
-PSC-filed tariff. We do not approximate.
+up a Duke Energy FL RS-1 rate raises ``LookupError`` — the correct behavior
+until every rate component is verified against the PSC-filed tariff.
 
-What we know without full verification (useful for sanity checks once the
-full tariff is entered):
+**Research status (as of 2026-04)**:
 
-- **2026 ECCR factor**: 0.386 ¢/kWh for residential (secondary voltage).
-  Source: PSC filing 07095-2025 (Docket 20250001-EI fuel + 20250002-EG
-  ECCR). Retained at ``.tariff_research/duke_psc_filing.txt``.
-- **March 2026 rate event**: Storm Cost Recovery charge removed, resulting
-  in approximately a $44 decrease per 1,000 kWh vs February 2026.
-  Source: Duke Energy press release (Feb 2026).
-- **PSC Docket references for 2026 tariff**:
-  - 20240160-EI (Duke Energy Florida multiyear rate agreement 2024–2027)
-  - 20250001-EI (annual fuel cost recovery)
-  - 20250002-EG (energy conservation cost recovery)
+- Duke Energy's rate schedule index
+  (``duke-energy.com/home/billing/rates/index-of-rate-schedules?jur=FL01``)
+  returns HTTP 200 with a JavaScript SPA shell; rate PDFs are fetched
+  client-side and are not accessible to a plain HTTP GET. A headless
+  browser (Playwright / Selenium) is the practical path to automate this.
+  Known-good URL patterns (``/-/media/pdfs/for-your-home/rates/electricfl/
+  rate-rs1.pdf``, variants) return 404 — the tree has been reorganized.
+- The Florida PSC tariff index (``psc.state.fl.us/electric-tariffs``) is
+  also a JavaScript SPA.
+- Individual PSC filings at
+  ``floridapsc.com/pscfiles/library/filings/YYYY/NNNNN-YYYY/NNNNN-YYYY.pdf``
+  ARE directly downloadable and extractable via ``pdfplumber``.
 
-To complete this module:
+**Partial verified data**:
 
-1. Obtain the current RS-1 tariff PDF from
-   ``duke-energy.com/home/billing/rates/index-of-rate-schedules?jur=FL01``
-   (the 403 response seen in research likely requires a user-agent; download
-   via ``curl -A`` or a headless browser).
-2. Extract with ``pdfplumber`` and retain the text at
-   ``.tariff_research/duke_rs1_<year>.txt``.
-3. Populate a ``TariffSchedule`` for each effective date window (Jan–Feb 2026
-   pre-storm-removal, Mar 2026+ post-storm-removal) with:
-   - Customer charge (monthly)
-   - Energy charge (tiered or flat)
-   - Fuel charge (tiered or flat)
-   - Storm Protection charge
-   - Storm Cost Recovery charge (Jan–Feb 2026 only)
-   - ECCR (0.386 ¢/kWh confirmed)
-   - Capacity cost recovery
-   - Environmental cost recovery
-   - Any riders (Asset Securitization, Clean Energy Connection, etc.)
-4. Call ``register_tariff`` for each schedule.
-5. Add tests to ``tests/test_tariffs/test_duke_rs1.py`` verifying:
-   - 1,000 kWh subtotals reconcile to Duke's published "typical bill" figures
-     (adjusted for Florida Gross Receipts Tax gross-up of ~1.02632)
-   - Schedule date windows do not overlap
+- **2026 ECCR factor (residential, secondary)**: ``0.386 ¢/kWh``
+  (Source: PSC filing 07095-2025, retained at ``.tariff_research/
+  duke_psc_filing.txt``).
+- **March 2026 rate event**: Storm Cost Recovery charge removed, reducing
+  a typical 1,000 kWh bill by approximately $44/month vs Feb 2026.
+  Implication: Duke's 2026 Jan–Feb and Mar+ schedules differ significantly
+  and must be entered as two separate date-windowed ``TariffSchedule``
+  entries.
+
+**PSC docket references for 2026 tariff**:
+
+- **20240160-EI** — Duke Energy Florida multiyear rate agreement 2024–2027
+- **20250001-EI** — annual fuel cost recovery
+- **20250002-EG** — energy conservation cost recovery
+
+**To complete this module**:
+
+1. Access each Duke Florida rate-schedule PDF via a headless browser or
+   by looking up direct filing URLs in PSC Docket 20240160-EI's exhibit
+   list. Target files:
+   - RS-1 (Residential Service, standard)
+   - RST-1 (Residential Service, Time-of-Use)
+   - RSL-1, RSL-2 (lighting variants)
+2. Extract text via ``pdfplumber``; retain at ``.tariff_research/
+   duke_<schedule>_<year>.txt``.
+3. Populate a pair of ``TariffSchedule`` entries per rate schedule:
+   - Jan–Feb 2026 (storm cost recovery active)
+   - Mar 2026 onward (storm cost recovery removed)
+4. Verify each 1,000 kWh subtotal × FL Gross Receipts Tax (~1.02632)
+   matches Duke's published typical-bill figures for the period.
+5. Register via ``register_tariff``.
+6. Add tests to ``tests/test_tariffs/test_duke_rs1.py``.
 """
 
 # Intentionally empty — no schedules registered.
